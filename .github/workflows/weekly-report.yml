@@ -1,0 +1,31 @@
+name: Weekly Learning Report
+
+on:
+  schedule:
+    - cron: "0 11 * * 0"  # Every Sunday at 18:00 Vietnam time (UTC+7 = 11:00 UTC)
+  workflow_dispatch:        # Allow manual trigger
+
+permissions:
+  contents: write           # Required for auto-commit back to repo
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate weekly report
+        run: node scripts/generate_report.js
+
+      - name: Commit report to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add weekly-review/
+          git add progress-dashboard.md
+          git commit -m "dashboard: auto-report week $(date +%V)" || echo "No changes to commit"
+          git push
