@@ -16,9 +16,9 @@
 
 | Day | Duration | Time |
 |---|---|---|
-| Mon–Fri | **90 min/evening** | 19:00–20:30 |
-| Sat | **2 hours** | 08:00–10:00 |
-| Sun | **2 hours** | 08:00–10:00 |
+| Mon–Fri | **90 min/day** | Flexible (Core requirement: 90 mins) |
+| Sat | **2 hours** | Flexible (Morning suggested) |
+| Sun | **2 hours** | Flexible (Morning suggested) |
 
 **Total: ~156 hours across 60 days.**
 
@@ -34,15 +34,15 @@
 
 ---
 
-## ⏰ Daily Schedule (Mon–Fri, 90 min)
+## ⏰ Daily Schedule (Mon–Fri, 90 mins Flexible)
 
-| Time | Module | Activity |
-|---|---|---|
-| 19:00–19:10 | 🐛 Debug Review | Re-read yesterday's Bug Log — avoid repeating errors |
-| 19:10–19:40 | 📥 Input | Study 1 GIU unit — understand the logic/syntax |
-| 19:40–20:05 | ⚙️ Processing | VIU vocabulary + exercises |
-| 20:05–20:20 | 📤 Output | Write 5–10 sentences in IT context |
-| 20:20–20:30 | 🗣️ Speaking + 📦 Commit | Say sentences aloud (ChatGPT Voice / Gemini Live) → `git commit` |
+| Duration | Module | Activity | Time Allocation |
+|---|---|---|---|
+| 10 min | 🐛 Debug Review | Re-read yesterday's Bug Log — avoid repeating errors | ~10% |
+| 30 min | 📥 Input | Study 1 GIU unit — understand the logic/syntax | ~30% |
+| 25 min | ⚙️ Processing | VIU vocabulary + exercises | ~25% |
+| 15 min | 📤 Output | Write 5–10 sentences in IT context | ~20% |
+| 10 min | 🗣️ Speaking + 📦 Commit | Say sentences aloud (ChatGPT/Gemini) → `git commit` | ~15% |
 
 ## ⏰ Saturday Schedule (2 hours — Deep Review Sprint)
 
