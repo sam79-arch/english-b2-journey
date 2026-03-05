@@ -1,16 +1,16 @@
 # English Learning Dashboard
 
-Last updated: 2026-03-04
+Last updated: 2026-03-05
 
 ## 📈 Overall Progress
 
 | Metric | Value |
 |---|---|
-| Sentence files | 1 |
+| Sentence files | 2 |
 | Task 1 essays | 0 |
 | Task 2 essays | 1 |
-| Grammar bugs logged | 5 |
-| Most persistent bug | Tense |
+| Grammar bugs logged | 8 |
+| Most persistent bug | Tense / Articles |
 
 ## 🏁 Targets
 
