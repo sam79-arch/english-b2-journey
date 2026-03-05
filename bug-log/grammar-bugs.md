@@ -64,4 +64,41 @@ Times Repeated: 1
 
 ---
 
-<!-- Add new bugs below this line -->
+---
+21: 
+22: ## Bug ID: 006
+23: 
+24: Date: 2026-03-05
+25: Buggy Sentence: im working right now / Im currently working
+26: Correct Sentence: I'm working right now / I'm currently working
+27: Root Cause: Lowercase "i" for the personal pronoun.
+28: Rule: The pronoun "I" must always be capitalized.
+29: Category: Capitalization
+30: Times Repeated: 2
+31: 
+32: ---
+33: 
+34: ## Bug ID: 007
+35: 
+36: Date: 2026-03-05
+37: Buggy Sentence: working on new Javascript project / eating potato chip
+38: Correct Sentence: working on a new project / eating potato chips (or a chip)
+39: Root Cause: Missing articles or incorrect countability.
+40: Rule: Singular countable nouns usually need an article (a/an/the) or plural form.
+41: Category: Articles
+42: Times Repeated: 2
+43: 
+44: ---
+45: 
+46: ## Bug ID: 008
+47: 
+48: Date: 2026-03-05
+49: Buggy Sentence: having a great sex
+50: Correct Sentence: having great sex
+51: Root Cause: Incorrect use of article with uncountable noun.
+52: Rule: Uncountable nouns like "sex" do not take "a/an" when referring to the activity in general.
+53: Category: Articles
+54: Times Repeated: 1
+55: 
+56: <!-- Add new bugs below this line -->
+57: 
