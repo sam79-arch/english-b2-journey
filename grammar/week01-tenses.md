@@ -15,7 +15,7 @@
 
 ---
 
-## Day 02 (03-06): Units 3–4 — Present Tenses (Comparison) 📍
+## Day 02 (03-06): Units 3–4 — Present Tenses (Comparison) ✅
 
 - **Unit 3:** Present continuous and present simple 1 (`I am doing` and `I do`)
 - **Unit 4:** Present continuous and present simple 2 (`I am doing` and `I do`)
