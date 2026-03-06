@@ -1,76 +1,99 @@
-# Week 01 - Core Tenses (Unit 1 & 2)
+# Week 01 - Core Tenses (Units 1–10) — Accelerated Plan (7 days)
 
 **Date:** 2026-03-05 to 2026-03-11  
+**Plan:** Complete all 10 core tenses in 7 days (mix of 1–2 units per day)  
 **Source:** English Grammar In Use (GIU)
 
-## Day 01: Present Continuous & Present Simple (2026-03-05)
+---
 
-### 📌 Unit 1: Present Continuous (`I am doing`)
-*Dùng cho hành động đang diễn ra tại thời điểm nói hoặc xung quanh thời điểm nói. Hành động chưa kết thúc.*
+## Day 01 (03-05): Units 1–2 — Present Tenses ✅
 
-**Cấu trúc (Form):**
-- Khẳng định: `S + am/is/are + V-ing` (Ví dụ: *I am working*)
-- Phủ định: `S + am/is/are + not + V-ing` (Ví dụ: *He isn't watching TV*)
-- Câu hỏi: `Am/Is/Are + S + V-ing?` (Ví dụ: *Are you leaving now?*)
+- **Unit 1:** Present Continuous (`I am doing`) — hành động đang diễn ra
+- **Unit 2:** Present Simple (`I do`) — thói quen, sự thật
 
-**Quy tắc sử dụng cốt lõi (Key points):**
-1. **Hành động đang xảy ra ngay lúc nói (Happening exactly now):**
-   - *Please don't make so much noise. I'm trying to work.* (Làm ơn đừng ồn. Tôi đang cố làm việc.)
-   - *Let's go out now. It isn't raining anymore.*
-2. **Hành động tạm thời xung quanh thời điểm nói (Happening around now, but maybe not exactly at the time of speaking):**
-   - Sự việc đang diễn ra trong thời gian này (hôm nay, tuần này, năm nay).
-   - *You're working hard today.*
-   - *I'm reading a really good book at the moment. It's about a man who...* (Lúc nói câu này có thể người đó không cầm cuốn sách, nhưng họ đang trong quá trình đọc nó).
-3. **Sự thay đổi đang diễn ra (Changes happening around now):**
-   - Thường đi kèm các động từ: *get, change, become, increase, rise, fall, grow, improve, begin, start.*
-   - *Is your English getting better?* (Không dùng: *Does your English get better?*)
-   - *The population of the world is increasing very fast.*
-
-**Tricky points (Lưu ý dễ sai):**
-- **Quy tắc thêm -ing:** 
-  - Động từ tận cùng bằng `-e` ➡️ Bỏ `e` thêm `ing` (come ➡️ coming, write ➡️ writing)
-  - Trừ `be` ➡️ be**ing**
-  - Động từ 1 âm tiết, tận cùng 1 phụ âm, trước nó là 1 nguyên âm ➡️ Nhân đôi phụ âm (run ➡️ running, stop ➡️ stopping)
-  - Tận cùng `-ie` ➡️ Chuyển thành `-y` rồi thêm `ing` (lie ➡️ lying, die ➡️ dying)
-
-### 📌 Unit 2: Present Simple (`I do`)
-*Dùng cho hành động mang tính chất chung chung, lặp đi lặp lại (thói quen), hoặc là sự thật hiển nhiên.*
-
-**Cấu trúc (Form):**
-- Khẳng định: `I/You/We/They + V` | `He/She/It + V-s/es`
-- Phủ định: `I/You/We/They + do not (don't) + V` | `He/She/It + does not (doesn't) + V`
-- Câu hỏi: `Do + I/You/We/They + V?` | `Does + He/She/It + V?`
-
-**Quy tắc sử dụng cốt lõi (Key points):**
-1. **Sự thật hiển nhiên, chân lý, quy luật (Facts, things in general):**
-   - *Nurses look after patients in hospitals.* (Y tá chăm sóc bệnh nhân ở bệnh viện).
-   - *The earth goes round the sun.* (Trái đất quay quanh mặt trời).
-   - *Cafes open at 7:30 in the morning.*
-2. **Thói quen, tần suất lặp lại (How often we do things):**
-   - Thường đi kèm: *always, usually, often, sometimes, never, every day/week...*
-   - *I usually go away at weekends.* (Tôi thường đi chơi cuối tuần).
-   - *How often do you go to the dentist?*
-3. **Động từ thể hiện cam kết/tuyên bố (I promise / I apologize...):**
-   - Sách dạy một cách dùng rất hay (Mục D): Khi bạn nói một câu mang ý nghĩa thực hiện hành động ngay lập tức (như hứa, xin lỗi, khuyên bảo).
-   - *I promise I won't be late.* (Không được dùng: *I am promising...*)
-   - *What do you suggest I do? - I suggest that you...*
-   - Các động từ tương tự: *apologize, advise, insist, agree, refuse.*
-
-**Tricky points (Lưu ý dễ sai):**
-- **Quy tắc thêm -s/es cho ngôi thứ 3 số ít (He/She/It):**
-  - Động từ tận cùng bằng cấu trúc `-o, -s, -sh, -ch, -x, -z` ➡️ Thêm `-es` (pass ➡️ passes, wash ➡️ washes, watch ➡️ watches, go ➡️ goes).
-  - Động từ tận cùng bằng `phụ âm + y` ➡️ Đổi `y` thành `i` rồi thêm `es` (study ➡️ studies, try ➡️ tries).
-  - Ngoại lệ bất quy tắc: `have` ➡️ `has`.
-- **Trợ động từ (Auxiliary Verbs):** Hãy nhớ dùng `do/does` để đặt câu hỏi và câu phủ định.
-  - Sai: *What means this word?*
-  - Đúng: *What **does** this word **mean**?*
-  
-### ⚖️ Tóm tắt sự khác biệt cốt lõi (Unit 1 vs Unit 2):
-Sách phân biệt cực rõ ràng tại mục so sánh:
-* **Tạm thời (Temporary) = Trạng thái thay đổi ➡️ Dùng Hiện tại tiếp diễn:**
-  > *I'm living with some friends until I find a place of my own.* (Chỉ sống với họ vài tháng).
-* **Lâu dài (Permanent) = Trạng thái ổn định ➡️ Dùng Hiện tại đơn:**
-  > *My parents live in London. They have lived there all their lives.* (Đó là nhà của họ).
+**[See original file for detailed content]**
 
 ---
-*Commit: `study: GIU unit 1 & 2 present perfect & simple`*
+
+## Day 02 (03-06): Units 3–4 — Past Tenses Part 1 📍
+
+- **Unit 3:** Past Simple (`I did`) — hành động hoàn thành, quá khứ
+- **Unit 4:** Past Continuous (`I was doing`) — hành động đang diễn ra trong quá khứ
+
+**Key difference:**
+- *I worked* (hoàn thành)
+- *I was working when...* (đang làm khi...)
+
+---
+
+## Day 03 (03-07): Units 5–6 — Present Perfect & Past Habits 📍
+
+- **Unit 5:** Present Perfect (`I have done`) — quá khứ đến hiện tại
+- **Unit 6:** Used to / Would (`I used to / would do`) — thói quen quá khứ
+
+**Key difference:**
+- *I've lived here for 5 years* (và vẫn sống)
+- *I used to live here* (nhưng không còn)
+
+---
+
+## Day 04 (03-08): Units 7–8 — Continuous & Perfect Past 📍
+
+- **Unit 7:** Present Perfect Continuous (`I have been doing`) — quá trình từ quá khứ đến hiện tại
+- **Unit 8:** Past Perfect (`I had done`) — hành động trước hành động khác trong quá khứ
+
+**Key difference:**
+- *I have been working for 3 hours* (vẫn đang làm)
+- *I had finished before he arrived* (xong trước khi anh ta tới)
+
+---
+
+## Day 05 (03-09): Units 9–10 — Future Tenses 📍
+
+- **Unit 9:** Will & Going to (`I will / am going to do`) — dự định hoặc dự đoán
+- **Unit 10:** Future Continuous & Future Perfect (`I will be doing / will have done`) — quá trình hoặc hoàn thành trong tương lai
+
+**Key difference:**
+- *I will go* (dự definition đột ngột)
+- *I am going to go* (đã lên kế hoạch)
+- *I will be working at 5 p.m.* (đang làm lúc đó)
+
+---
+
+## Day 06 (03-10): Review All Units 1–10 📚
+
+**Bài tập ôn tập:**
+1. Làm tất cả bài tập trong GIU Units 1–10
+2. Viết 3–5 câu cho mỗi unit trong IT context
+3. Update Bug Log với lỗi bất kỳ
+
+---
+
+## Day 07 (03-11): Mini Test + Consolidation ✨
+
+**Mục tiêu:**
+1. Hoàn thành Grammar Test (GIU hoặc tự tạo)
+2. Analyze lỗi → Update Bug Log
+3. Consolidate notes cho Phase 2
+
+---
+
+## 📊 Summary Table — All 10 Tenses
+
+| # | Unit | Form | Use | Example |
+|---|---|---|---|---|
+| 1 | Present Cont. | am/is/are + -ing | Now | *I am working* |
+| 2 | Present Simple | do/does | Habits | *I work* |
+| 3 | Past Simple | V-ed / did | Finished | *I worked* |
+| 4 | Past Continuous | was/were + -ing | Then (in progress) | *I was working* |
+| 5 | Present Perfect | have/has + done | Past → Now | *I have worked* |
+| 6 | Used to / Would | used to / would + V | Old habits | *I used to work* |
+| 7 | Present Perfect Cont. | have/has + been + -ing | Duration (Now) | *I have been working* |
+| 8 | Past Perfect | had + done | Before (in past) | *I had worked* |
+| 9 | Will / Going to | will / am going to | Future plan | *I will work / I'm going to work* |
+| 10 | Future Cont. / Perf. | will be + -ing / will have + done | Future progress/completion | *I will be working / I will have worked* |
+
+---
+
+**Status:** 10 units completed in 7 days ✅  
+**Next:** Plan Phase 2 (Gerund/Infinitive, Conditionals, Advanced structures)
