@@ -41,11 +41,12 @@ async function extractUnit(unitNumber, filePath = DEFAULT_PDF) {
     }
 }
 
-// Get unit number from command line arguments
+// Get unit number and optional file path from command line arguments
 const targetUnit = process.argv[2];
+const customPath = process.argv[3];
 if (!targetUnit) {
-    console.log("Usage: node extractor.js <unit_number>");
+    console.log("Usage: node extractor.js <unit_number> [pdf_path]");
     process.exit(1);
 }
 
-extractUnit(targetUnit);
+extractUnit(targetUnit, customPath);
