@@ -15,48 +15,37 @@
 
 ---
 
-## Day 02 (03-06): Units 3–4 — Past Tenses Part 1 📍
+## Day 02 (03-06): Units 3–4 — Present Tenses (Comparison) 📍
 
-- **Unit 3:** Past Simple (`I did`) — hành động hoàn thành, quá khứ
-- **Unit 4:** Past Continuous (`I was doing`) — hành động đang diễn ra trong quá khứ
+- **Unit 3:** Present continuous and present simple 1 (`I am doing` and `I do`)
+- **Unit 4:** Present continuous and present simple 2 (`I am doing` and `I do`)
+
+> **Chi tiết bài học:** Xem ghi chú tại [present-comparison-rules.md](file:///c:/Users/HiruK/OneDrive/Documents/e-learning/english-b2-journey/grammar/present-comparison-rules.md)
 
 **Key difference:**
-- *I worked* (hoàn thành)
-- *I was working when...* (đang làm khi...)
+- *Unit 3:* Focus on temporary vs permanent situations.
+- *Unit 4:* Focus on thoughts, feelings, and verbs not usually used in continuous.
 
 ---
 
-## Day 03 (03-07): Units 5–6 — Present Perfect & Past Habits 📍
+## Day 03 (03-07): Units 5–6 — Past Tenses Part 1 📍
 
-- **Unit 5:** Present Perfect (`I have done`) — quá khứ đến hiện tại
-- **Unit 6:** Used to / Would (`I used to / would do`) — thói quen quá khứ
-
-**Key difference:**
-- *I've lived here for 5 years* (và vẫn sống)
-- *I used to live here* (nhưng không còn)
+- **Unit 5:** Past Simple (`I did`) — hành động đã kết thúc
+- **Unit 6:** Past Continuous (`I was doing`) — hành động đang diễn ra tại một thời điểm trong quá khứ
 
 ---
 
-## Day 04 (03-08): Units 7–8 — Continuous & Perfect Past 📍
+## Day 04 (03-08): Units 7–8 — Present Perfect Part 1 📍
 
-- **Unit 7:** Present Perfect Continuous (`I have been doing`) — quá trình từ quá khứ đến hiện tại
-- **Unit 8:** Past Perfect (`I had done`) — hành động trước hành động khác trong quá khứ
-
-**Key difference:**
-- *I have been working for 3 hours* (vẫn đang làm)
-- *I had finished before he arrived* (xong trước khi anh ta tới)
+- **Unit 7:** Present Perfect 1 (`I have done`) — kết quả ở hiện tại
+- **Unit 8:** Present Perfect 2 (`I have done`) — trải nghiệm, tin mới
 
 ---
 
-## Day 05 (03-09): Units 9–10 — Future Tenses 📍
+## Day 05 (03-09): Units 9–10 — Present Perfect Part 2 📍
 
-- **Unit 9:** Will & Going to (`I will / am going to do`) — dự định hoặc dự đoán
-- **Unit 10:** Future Continuous & Future Perfect (`I will be doing / will have done`) — quá trình hoặc hoàn thành trong tương lai
-
-**Key difference:**
-- *I will go* (dự definition đột ngột)
-- *I am going to go* (đã lên kế hoạch)
-- *I will be working at 5 p.m.* (đang làm lúc đó)
+- **Unit 9:** Present Perfect Continuous (`I have been doing`) — hành động bắt đầu trong quá khứ và vẫn tiếp tục
+- **Unit 10:** Present Perfect Continuous and Simple (`I have been doing` and `I have done`) — so sánh quá trình vs kết quả
 
 ---
 
@@ -78,22 +67,22 @@
 
 ---
 
-## 📊 Summary Table — All 10 Tenses
+## 📊 Summary Table — All 10 Units
 
-| # | Unit | Form | Use | Example |
-|---|---|---|---|---|
-| 1 | Present Cont. | am/is/are + -ing | Now | *I am working* |
-| 2 | Present Simple | do/does | Habits | *I work* |
-| 3 | Past Simple | V-ed / did | Finished | *I worked* |
-| 4 | Past Continuous | was/were + -ing | Then (in progress) | *I was working* |
-| 5 | Present Perfect | have/has + done | Past → Now | *I have worked* |
-| 6 | Used to / Would | used to / would + V | Old habits | *I used to work* |
-| 7 | Present Perfect Cont. | have/has + been + -ing | Duration (Now) | *I have been working* |
-| 8 | Past Perfect | had + done | Before (in past) | *I had worked* |
-| 9 | Will / Going to | will / am going to | Future plan | *I will work / I'm going to work* |
-| 10 | Future Cont. / Perf. | will be + -ing / will have + done | Future progress/completion | *I will be working / I will have worked* |
+| # | Unit | Topic | Example |
+|---|---|---|---|
+| 1 | Present Continuous | Action happening now | *I am working* |
+| 2 | Present Simple | General/Habit | *I work* |
+| 3 | Present Cont. vs Simple 1 | Temporary vs Permanent | *I'm living / I live* |
+| 4 | Present Cont. vs Simple 2 | Stative verbs | *I want, I know* |
+| 5 | Past Simple | Finished action | *I worked* |
+| 6 | Past Continuous | Action in progress in past | *I was working* |
+| 7 | Present Perfect 1 | Result now | *I have lost my key* |
+| 8 | Present Perfect 2 | Experience | *I have been to Japan* |
+| 9 | Present Perfect Cont. | Action still happening | *I have been working* |
+| 10 | Pres. Perf. Cont. vs Simple | Process vs Result | *I've been painting / I've painted* |
 
 ---
 
-**Status:** 10 units completed in 7 days ✅  
-**Next:** Plan Phase 2 (Gerund/Infinitive, Conditionals, Advanced structures)
+**Status:** 10 units planned for Week 01 ✅  
+**Next:** Units 11–20 (Present Perfect continued, Past Perfect, Future)
