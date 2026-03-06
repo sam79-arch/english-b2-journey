@@ -10,7 +10,8 @@ Last updated: 2026-03-06
 | Task 1 essays | 0 |
 | Task 2 essays | 1 |
 | Grammar bugs logged | 11 |
-| Most persistent bug | Tense / Articles |
+| Total Commits | 12 |
+| Most persistent bug | Tense / Sentence Structure |
 
 ## 🏁 Targets
 
