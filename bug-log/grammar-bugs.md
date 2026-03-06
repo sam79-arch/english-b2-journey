@@ -100,5 +100,39 @@ Times Repeated: 1
 53: Category: Articles
 54: Times Repeated: 1
 55: 
-56: <!-- Add new bugs below this line -->
+56: ## Bug ID: 009
+
+Date: 2026-03-06
+Buggy Sentence: im love to go fishsing / im often feel exhausted
+Correct Sentence: I love to go fishing / I often feel exhausted 
+Root Cause: Used "im" (I am) before a main verb in Present Simple.
+Rule: Do not use "am/is/are" with main verbs in Present Simple unless it's passive or a progressive tense.
+Category: Tense/Auxiliary
+Times Repeated: 1
+
+---
+
+## Bug ID: 010
+
+Date: 2026-03-06
+Buggy Sentence: im think Huong not a good person
+Correct Sentence: I think Huong is not a good person
+Root Cause: Missing "to be" verb for the subject "Huong" and used "im" for "I".
+Rule: Every clause needs a verb; singular subjects like "Huong" need "is".
+Category: Sentence Structure
+Times Repeated: 1
+
+---
+
+## Bug ID: 011
+
+Date: 2026-03-06
+Buggy Sentence: who do silent treatment to me
+Correct Sentence: who gives me the silent treatment
+Root Cause: Inaccurate collocations (wrong phrase usage).
+Rule: Use "give someone the silent treatment" for ignoring someone.
+Category: Vocabulary/Collocations
+Times Repeated: 1
+
+<!-- Add new bugs below this line -->
 57: 
