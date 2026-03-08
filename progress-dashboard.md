@@ -1,17 +1,18 @@
 # English Learning Dashboard
 
-Last updated: 2026-03-07
+Last updated: 2026-03-08
 
 ## 📈 Overall Progress
 
 | Metric | Value |
 |---|---|
+| Days completed | Week 11 |
 | Sentence files | 3 |
+| Vocabulary learned | ~0 words |
 | Task 1 essays | 0 |
 | Task 2 essays | 1 |
-| Grammar bugs logged | 11 |
-| Total Commits | 15 |
-| Most persistent bug | Tense / Sentence Structure |
+| Grammar bugs logged | 0 |
+| Most persistent bug | N/A |
 
 ## 🏁 Targets
 
