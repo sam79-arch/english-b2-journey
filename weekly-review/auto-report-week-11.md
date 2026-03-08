@@ -6,10 +6,10 @@ Generated: 2026-03-08
 
 | Metric | Value |
 |---|---|
-| Sentence practice files | 3 |
+| Sentence practice files | 4 |
 | Task 1 essays | 0 |
 | Task 2 essays | 1 |
-| Total sentences written | ~22 |
+| Total sentences written | ~37 |
 | Grammar bugs logged | 0 |
 | Most common bug category | N/A |
 | Weekly review files | 1 |

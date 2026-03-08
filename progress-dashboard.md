@@ -7,7 +7,7 @@ Last updated: 2026-03-08
 | Metric | Value |
 |---|---|
 | Days completed | Week 11 |
-| Sentence files | 3 |
+| Sentence files | 4 |
 | Vocabulary learned | ~0 words |
 | Task 1 essays | 0 |
 | Task 2 essays | 1 |
