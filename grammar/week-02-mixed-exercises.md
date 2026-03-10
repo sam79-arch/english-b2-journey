@@ -45,12 +45,13 @@
 
 #### Format for Each Day:
 
-**Total Time: 90 min/day (flexible)**
+**Total Time: 2–3 hours/day (flexible)**
 
 1. **Warm-up (10 min):** Read yesterday's Bug Log
-2. **Mixed Exercise Block 1 (35 min):** 15–20 mixed sentences (randomized from all 10 units)
-3. **Mixed Exercise Block 2 (35 min):** 15–20 more mixed sentences (harder difficulty)
-4. **Correction & Logging (10 min):** Write down errors → bug log
+2. **Mixed Exercise Block 1 (50 min):** 50 mixed sentences (randomized from all 10 units) — Difficulty: Easy to Medium
+3. **Break (10 min):** Rest & hydrate
+4. **Mixed Exercise Block 2 (50 min):** 50 more mixed sentences (harder difficulty) — Difficulty: Medium to Hard
+5. **Correction & Logging (20 min):** Write down errors → bug log, identify patterns
 
 ---
 
@@ -71,10 +72,11 @@
 
 **Main theme:** Present Continuous vs Simple, Stative verbs
 
-**Exercise types:**
-1. Correct 15 sentences mixing Units 1–4
-2. Rewrite a short paragraph (5 sentences) fixing present tense errors
-3. Fill-in-the-blank with 10 verbs (present forms)
+**Total: 100 mixed sentences**
+
+**Exercise structure:**
+- Block 1 (50 sentences): Correct present tense errors, fill-in-the-blank, rewrite exercises
+- Block 2 (50 sentences): Harder scenarios mixing Units 1–4 with other tenses
 
 **Sample exercise:**
 ```
@@ -92,10 +94,11 @@ Correct these sentences (mix of Units 1–4):
 
 **Main theme:** Past Simple vs Past Continuous, background actions
 
-**Exercise types:**
-1. Correct 15 sentences mixing Units 5–6
-2. Story: Fill in the blanks with past simple or continuous
-3. Write a short IT incident report (8–10 sentences) using correct past tenses
+**Total: 100 mixed sentences**
+
+**Exercise structure:**
+- Block 1 (50 sentences): Correct past tense errors, story completion, fill-in-the-blank
+- Block 2 (50 sentences): Harder scenarios with narrative rewriting and complex situations
 
 **Sample exercise:**
 ```
@@ -112,10 +115,11 @@ Complete with Past Simple or Past Continuous:
 
 **Main theme:** Present Perfect Simple vs Continuous, result vs process
 
-**Exercise types:**
-1. Correct 15 sentences mixing Units 7–10
-2. Convert Present Simple sentences to Present Perfect (result)
-3. Write about your coding journey using all Present Perfect variations (8–10 sentences)
+**Total: 100 mixed sentences**
+
+**Exercise structure:**
+- Block 1 (50 sentences): Present Perfect variations, error correction, fill-in-the-blank
+- Block 2 (50 sentences): Complex scenarios mixing Units 7–10 with other tenses, narrative exercises
 
 **Sample exercise:**
 ```
@@ -132,8 +136,9 @@ Choose Present Perfect Simple or Continuous:
 
 **All 10 units together — maximum difficulty**
 
-**Structure:**
-- 50 mixed sentences/questions per day (3 difficulty levels combined)
+**Structure per day: 100 mixed sentences**
+- Block 1 (50 sentences): Mixed difficulty, all units randomized
+- Block 2 (50 sentences): Advanced scenarios requiring deep understanding across units
 - Short diagnostic at end of each day
 - Identify remaining weak spots
 
@@ -157,15 +162,22 @@ c) Explain why you chose each tense
 ## Scoring & Progress Tracking
 
 ### Daily Checks:
-- Accuracy target: 80%+ on mixed exercises
-- If <80%: Repeat 5 sentences from weak units next day
-- If >90%: Move to harder difficulty or add 5 bonus sentences
+- **Accuracy target:** 80%+ on mixed exercises (80+ correct out of 100)
+- **If 70–79%:** Identify weak units and add 10 bonus sentences for those units next day
+- **If <70%:** Repeat Block 1 (50 sentences) for weak areas before moving to Block 2
+- **If >90%:** Increase difficulty or add 10 bonus challenge sentences
+
+### Daily Progress:
+- Complete 100 sentences/day
+- Log 3–5 errors min. per day in bug log
+- Track accuracy trend (should improve toward end of week)
 
 ### End-of-Week Goals:
-- Complete all 50+ mixed sentences for Days 11–13
-- Update Bug Log with 5+ new error patterns
-- Identify top 3 "problem grammar patterns"
+- Complete 600+ mixed sentences total (Days 08–13)
+- Update Bug Log with 20+ new error patterns
+- Identify top 5 "problem grammar patterns"
 - Test score ≥ 75/100 on Day 07 mini test
+- Achieve 85%+ accuracy by Day 13
 
 ---
 
@@ -180,17 +192,18 @@ c) Explain why you chose each tense
 ## Commit Strategy for Week 02
 
 ```bash
-# After each exercise session:
-git commit -m "study: week 02 day X mixed unit exercises"
+# After each day's exercise block (100 sentences):
+git commit -m "study: week 02 day X mixed exercises 100 sentences"
 
 # After mini test (Day 07):
 git commit -m "test: week 01 grammar checkpoint mini test + diagnosis"
 
 # End of week (Day 13):
-git commit -m "review: week 02 mixed exercises consolidation 100+ sentences"
+git commit -m "review: week 02 mixed exercises consolidation 600+ sentences"
 ```
 
 ---
 
-*Status: Week 02 Plan Created — Ready to Execute*  
-*Flexibility Note: If you finish early, move ahead. If you need more time, extend into the following week.*
+*Status: Week 02 Plan Updated (100 sentences/day)*  
+*Total week commitment: 600+ mixed sentences*  
+*Flexibility Note: Spread over 2–3 hours per day. If faster, move ahead. If needing more time, extend into following week.*
