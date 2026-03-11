@@ -1,266 +1,456 @@
-# Day 07 - Mini Grammar Test + Diagnosis (2026-03-11)
+# Day 07 - Grammar Test & Diagnosis (2026-03-11) — 100 Mixed Sentences
 
-## Format: 20 Mixed Questions (Units 1–10)
+## Format: 100 Mixed Questions (Units 1–10)
 
-**Time:** 20 minutes (timed test)  
-**Difficulty:** Medium  
-**Goal:** Identify weak areas for Week 02 intensive practice
+**Time:** 2–3 hours (flexible)  
+**Structure:** 2 blocks of 50 sentences each  
+**Difficulty:** Easy to Medium (Block 1) → Medium to Hard (Block 2)  
+**Goal:** Comprehensive diagnosis + identify weak areas for Days 08–13
 
 ---
 
-## Instructions
+## Block 1: Easy to Medium (50 sentences)
 
-For each question:
-- Choose the **correct tense/form** OR
+### Instructions
+For each sentence:
+- Choose the **correct option** OR
 - **Correct the sentence** if it's wrong
 
-Mark your answers, then check against the answer key at the end.
-
 ---
 
-## Questions
-
-### Unit 1 & 2: Present Tenses (Q1–2)
-
-**Q1.** What is he doing right now?
-- a) He is coding a new feature.
-- b) He codes a new feature.
-- c) He has been coding a new feature.
-
-**Answer:** ___________
-
----
-
-**Q2.** My colleague **works** in the IT department every day.
+**1.** I **am working** on this project right now.
 - a) Correct ✓
-- b) Should be "is working"
-- c) Should be "has worked"
+- b) Should be "work"
 
-**Answer:** ___________
-
----
-
-### Unit 3 & 4: Present Continuous vs Simple, Stative Verbs (Q3–5)
-
-**Q3.** I **am wanting** to understand this code better.
-- a) Correct
-- b) Should be "want"
-- c) Should be "have wanted"
-
-**Answer:** ___________
-
----
-
-**Q4.** She **is living** in Hanoi ~~for 20 years~~ for the past 20 years.
-- a) Correct
-- b) Should be "lives"
-- c) Should be "has lived"
-
-**Answer:** ___________
-
----
-
-**Q5.** Complete: "Do you understand what I ___________?"
-- a) mean
-- b) am meaning
-- c) have meant
-
-**Answer:** ___________
-
----
-
-### Unit 5 & 6: Past Tenses (Q6–8)
-
-**Q6.** While I **was checking** the database, the power **went** off.
-- a) Correct ✓
-- b) Should be "checked / went"
-- c) Should be "was going / checked"
-
-**Answer:** ___________
-
----
-
-**Q7.** What **did you do** when the server crashed?
-- a) Should be "were you doing"
+**2.** She **works** as a software engineer.
+- a) Should be "is working"
 - b) Correct ✓
-- c) Should be "have you done"
 
-**Answer:** ___________
+**3.** I **am knowing** the answer.
+- a) Correct
+- b) Should be "know" ✓
 
----
+**4.** He **is living** in Hanoi for 20 years.
+- a) Should be "lives" ✓
+- b) Correct
 
-**Q8.** They **worked** on the project yesterday for 3 hours.
-- a) Correct (Past Simple)
-- b) Should be "were working" (Past Continuous)
-- c) Should be "have been working" (Present Perfect Continuous)
+**5.** What **do you want** to eat?
+- a) Should be "are you wanting"
+- b) Correct ✓
 
-**Answer:** ___________
+**6.** When I **arrived**, she **was checking** the code.
+- a) Correct ✓
+- b) Should be "am checking"
 
----
+**7.** They **worked** on the project yesterday.
+- a) Should be "were working"
+- b) Correct ✓
 
-### Unit 7 & 8: Present Perfect 1 & 2 (Q9–11)
+**8.** While I **was coding**, the power **went** off.
+- a) Correct ✓
+- b) Should be "code / went"
 
-**Q9.** I **have lost** my laptop!
+**9.** I **have lost** my laptop!
 - a) Should be "lost"
-- b) Correct ✓ (Result: I don't have it now)
-- c) Should be "was losing"
+- b) Correct ✓
 
-**Answer:** ___________
-
----
-
-**Q10.** **Have you ever been to** a tech conference?
+**10.** **Have you ever been to** Japan?
 - a) Should be "Did you ever go"
-- b) Should be "Are you ever going"
-- c) Correct ✓ (Experience/Lifetime)
+- b) Correct ✓
 
-**Answer:** ___________
-
----
-
-**Q11.** She **has worked** at this company for 5 years.
+**11.** She **has worked** here for 5 years.
 - a) Correct ✓
 - b) Should be "has been working"
-- c) Should be "worked"
 
-**Answer:** ___________
-
----
-
-### Unit 9 & 10: Present Perfect Continuous vs Simple (Q12–14)
-
-**Q12.** I **have been programming** this game for 8 hours.
+**12.** I **have been programming** for 3 hours.
 - a) Should be "have programmed"
-- b) Correct ✓ (Duration/How long)
-- c) Should be "am programming"
+- b) Correct ✓
 
-**Answer:** ___________
-
----
-
-**Q13.** How many emails **have you written** today?
+**13.** How many emails **have you written** today?
 - a) Should be "have you been writing"
-- b) Correct ✓ (Countable result)
-- c) Should be "have you written"
+- b) Correct ✓
 
-**Answer:** ___________
+**14.** The database **contains** sensitive data.
+- a) Should be "is containing"
+- b) Correct ✓
+
+**15.** I **like** programming.
+- a) Correct ✓
+- b) Incorrect
+
+**16.** Does he **understand** what I mean?
+- a) Should be "understanding"
+- b) Correct ✓
+
+**17.** She is **always losing** her keys.
+- a) Wrong
+- b) Correct (repeated annoying habit) ✓
+
+**18.** I **have finished** my work.
+- a) Should be "finished"
+- b) Correct ✓
+
+**19.** We **checked** the code yesterday.
+- a) Should be "have checked"
+- b) Correct ✓
+
+**20.** My colleague **is working** on a feature right now.
+- a) Correct ✓
+- b) Should be "works"
+
+**21.** I **don't know** the answer.
+- a) Correct ✓
+- b) Should be "am not knowing"
+
+**22.** They **are developing** the API since morning.
+- a) Should be "have been developing" ✓
+- b) Correct
+
+**23.** What **were you doing** when the error appeared?
+- a) Correct ✓
+- b) Should be "did you do"
+
+**24.** I **have sent** the email already.
+- a) Should be "sent"
+- b) Correct ✓
+
+**25.** She **wants** to understand this code.
+- a) Should be "is wanting"
+- b) Correct ✓
+
+**26.** The server **has crashed** three times this week.
+- a) Should be "crashed"
+- b) Correct ✓
+
+**27.** While she **was testing**, I **was debugging**.
+- a) Correct ✓
+- b) Should be "tested / debugged"
+
+**28.** I **have lived** in this city for 10 years.
+- a) Should be "have been living"
+- b) Correct ✓
+
+**29.** How long **have you been working** here?
+- a) Should be "have you worked"
+- b) Correct ✓
+
+**30.** The document **consists** of 50 pages.
+- a) Should be "is consisting"
+- b) Correct ✓
+
+**31.** I **like** this programming language.
+- a) Correct ✓
+- b) Should be "am liking"
+
+**32.** She **has been studying** programming for 2 years.
+- a) Should be "has studied"
+- b) Correct ✓
+
+**33.** What **do you usually do** at weekends?
+- a) Correct ✓
+- b) Should be "are you usually doing"
+
+**34.** I **finished** the project yesterday.
+- a) Correct ✓
+- b) Should be "have finished"
+
+**35.** The coffee **smells** good.
+- a) Should be "is smelling"
+- b) Correct ✓
+
+**36.** They **are testing** the database right now.
+- a) Correct ✓
+- b) Should be "test"
+
+**37.** I **have known** you since 2020.
+- a) Should be "know"
+- b) Correct ✓
+
+**38.** She **was working** when I called her.
+- a) Correct ✓
+- b) Should be "worked"
+
+**39.** He **has attended** three conferences this year.
+- a) Should be "attended"
+- b) Correct ✓
+
+**40.** We **are building** a new system at the moment.
+- a) Correct ✓
+- b) Should be "build"
+
+**41.** The meeting **starts** at 3 PM every day.
+- a) Should be "is starting"
+- b) Correct ✓
+
+**42.** I **have been sitting** here for 30 minutes.
+- a) Should be "have sat"
+- b) Correct ✓
+
+**43.** What **did you do** yesterday?
+- a) Should be "have you done"
+- b) Correct ✓
+
+**44.** She **prefers** coffee over tea.
+- a) Correct ✓
+- b) Should be "is preferring"
+
+**45.** They **released** the software last week.
+- a) Should be "have released"
+- b) Correct ✓
+
+**46.** I **am reading** this book right now.
+- a) Correct ✓
+- b) Should be "read"
+
+**47.** How long **have they been working** on this project?
+- a) Should be "have they worked"
+- b) Correct ✓
+
+**48.** The sound **bothers** me.
+- a) Should be "is bothering"
+- b) Correct ✓
+
+**49.** I **went** to the office yesterday morning.
+- a) Should be "was going"
+- b) Correct ✓
+
+**50.** We **have been developing** this feature all week.
+- a) Should be "have developed"
+- b) Correct ✓
 
 ---
 
-**Q14.** The team **has been testing** the software since morning and ____________ found 5 bugs.
-- a) have been finding
-- b) have found ✓
-- c) are finding
+## Block 2: Medium to Hard (50 sentences)
 
-**Answer:** ___________
+### Instructions
+Same as Block 1 — correct or choose the right option.
 
 ---
 
-## Complex Questions: All Units Mixed (Q15–20)
+**51.** I **know** what you mean, so I **am helping** you.
+- a) Correct
+- b) Should be "know / help" ✓
 
-**Q15.** Correct this sentence:
-*"I'm knowing how to code and I'm working on a new project right now."*
-- a) "I know how to code and I'm working on a new project right now."
-- b) "I'm knowing how to code and I work on a new project right now."
-- c) "I know how to code and I work on a new project."
+**52.** When the power went off, I **was checking** the backup files.
+- a) Correct ✓
+- b) Should be "checked"
 
-**Answer:** ___________
+**53.** She **has been working** here since 2015 and she **loves** it.
+- a) Correct ✓
+- b) Should be "has worked / is loving"
+
+**54.** How many times **have you attended** a tech conference?
+- a) Should be "did you attend"
+- b) Correct ✓
+
+**55.** I **want** to understand this, but I **am not understanding** it.
+- a) Correct
+- b) Should be "want / don't understand" ✓
+
+**56.** The server **crashed** while I **was uploading** the data.
+- a) Correct ✓
+- b) Should be "was crashing / uploaded"
+
+**57.** She **has seen** this movie and she **loves** it.
+- a) Correct ✓
+- b) Should be "has been seeing / is loving"
+
+**58.** I **have been coding** all day and **I'm tired**.
+- a) Correct ✓
+- b) Should be "code / am being tired"
+
+**59.** The database **contains** 1 million records.
+- a) Should be "is containing"
+- b) Correct ✓
+
+**60.** They **have been testing** the system and **they found** three bugs.
+- a) Correct ✓
+- b) Should be "tested / find"
+
+**61.** I **am working** on this bug for 3 hours.
+- a) Correct
+- b) Should be "have been working" ✓
+
+**62.** While she **was checking**, I **was fixing**.
+- a) Correct ✓
+- b) Should be "checked / fixed"
+
+**63.** The document **appears** to **contain** errors.
+- a) Should be "is appearing / is containing"
+- b) Correct ✓
+
+**64.** I **have never seen** this error before.
+- a) Should be "have never been seeing"
+- b) Correct ✓
+
+**65.** What **have you been doing** since morning?
+- a) Should be "have you done"
+- b) Correct ✓
+
+**66.** She **has won** three awards this year.
+- a) Should be "won"
+- b) Correct ✓
+
+**67.** The team **was testing** when the deadline **arrived**.
+- a) Correct ✓
+- b) Should be "test / arrives"
+
+**68.** I **think** you **understand** the concept now.
+- a) Should be "am thinking / are understanding"
+- b) Correct ✓
+
+**69.** They **have been developing** this API since January and it **is almost ready**.
+- a) Correct ✓
+- b) Should be "have developed / will be ready"
+
+**70.** How long **have you known** this developer?
+- a) Should be "have you been knowing"
+- b) Correct ✓
+
+**71.** I **have finished** the report, so you **can review** it now.
+- a) Correct ✓
+- b) Should be "have been finishing / will review"
+
+**72.** She **was preparing** the presentation when the system **crashed**.
+- a) Correct ✓
+- b) Should be "prepared / was crashing"
+
+**73.** I **like** this language.
+- a) Correct ✓
+- b) Should be "am liking"
+
+**74.** The project **belongs** to the IT department.
+- a) Should be "is belonging"
+- b) Correct ✓
+
+**75.** We **have been waiting** for 30 minutes and nobody **has arrived**.
+- a) Correct ✓
+- b) Should be "have waited / arrives"
+
+**76.** I **realize** that I **have made** a mistake.
+- a) Should be "am realizing / have been making"
+- b) Correct ✓
+
+**77.** While I **was debugging**, my colleague **fixed** a different bug.
+- a) Correct ✓
+- b) Should be "debug / was fixing"
+
+**78.** She **has been** here since 8 AM and **is still working**.
+- a) Correct ✓
+- b) Should be "has been / works"
+
+**79.** The error **occurs** because of a missing file.
+- a) Should be "is occurring"
+- b) Correct ✓
+
+**80.** I **have worked** at this company for 7 years now.
+- a) Should be "work"
+- b) Correct ✓
+
+**81.** They **were implementing** the feature when I **joined** the team.
+- a) Correct ✓
+- b) Should be "implement / was joining"
+
+**82.** I **understand** what you **'re saying**.
+- a) Correct ✓
+- b) Should be "am understanding / are saying"
+
+**83.** She **has attended** every meeting this month.
+- a) Should be "attended"
+- b) Correct ✓
+
+**84.** The report **shows** that we **have made** progress.
+- a) Correct ✓
+- b) Should be "is showing / have been making"
+
+**85.** I **have been trying** to reach you, but you **are not answering**.
+- a) Correct ✓
+- b) Should be "have tried / don't answer"
+
+**86.** When I **arrived**, everyone **was focusing** on the deadline.
+- a) Correct ✓
+- b) Should be "have arrived / focus"
+
+**87.** She **has seen** this and she **loves** it.
+- a) Correct ✓
+- b) Should be "has been seeing / is loving"
+
+**88.** I **have been coding** all day and **I'm tired**.
+- a) Correct ✓
+- b) Should be "code / am being tired"
+
+**89.** The system **contains** data from 2020.
+- a) Should be "is containing"
+- b) Correct ✓
+
+**90.** They **have been testing** and **they found** bugs.
+- a) Correct ✓
+- b) Should be "tested / find"
+
+**91.** I **prefer** tea, but I **am preferring** coffee today.
+- a) Correct
+- b) Should be "prefer / am preferring" (exception) ✓
+
+**92.** She **has graduated** and **she is starting** her new job next week.
+- a) Correct ✓
+- b) Should be "graduated / starts"
+
+**93.** When the deadline **passed**, we **had completed** 80% of the work.
+- a) Correct ✓
+- b) Should be "pass / have completed"
+
+**94.** I **don't want** any coffee, thanks.
+- a) Should be "am not wanting"
+- b) Correct ✓
+
+**95.** They **have been working** on this project for so long.
+- a) Should be "have worked"
+- b) Correct ✓
+
+**96.** I **saw** her yesterday, and she **mentioned** the new feature.
+- a) Correct ✓
+- b) Should be "have seen / is mentioning"
+
+**97.** The API **uses** modern security protocols.
+- a) Correct ✓
+- b) Should be "is using"
+
+**98.** I **believe** you **understand** the importance of testing.
+- a) Should be "am believing / are understanding"
+- b) Correct ✓
+
+**99.** She **has been** here for 3 hours and **she has finished** two reports.
+- a) Correct ✓
+- b) Should be "is / finishes"
+
+**100.** We **were preparing** the launch when the client **called**.
+- a) Correct ✓
+- b) Should be "prepare / is calling"
 
 ---
 
-**Q16.** Which sentence is correct?
-- a) "When she arrived, I was checking the code."
-- b) "When she arrived, I checked the code."
-- c) "When she arrived, I am checking the code."
+## Scoring & Diagnosis
 
-**Answer:** ___________
+**Mark your errors:**
+- Block 1 accuracy: ______ / 50
+- Block 2 accuracy: ______ / 50
+- **Total: ______ / 100**
 
----
+**Identify weak areas:**
+- Which unit categories caused most errors?
+  - Unit 1–2 (Present): _____
+  - Unit 3–4 (Stative/Temp): _____
+  - Unit 5–6 (Past): _____
+  - Unit 7–8 (Perfect): _____
+  - Unit 9–10 (Perfect Cont.): _____
 
-**Q17.** Complete: "They **have been developing** this API for 2 weeks and they _____________ almost finished."
-- a) are
-- b) have been
-- c) have ✓ (Result + state)
-
-**Answer:** ___________
-
----
-
-**Q18.** Rewrite in the past: *"I am working and I have just finished a bug fix."*
-- a) "I was working and I had just finished a bug fix." ✓
-- b) "I was working and I just finished a bug fix."
-- c) "I worked and I have just finished a bug fix."
-
-**Answer:** ___________
+**Update Bug Log:**
+- Add 5–10 error examples with corrections
+- Note patterns you see (e.g., "confusing stative verbs in continuous")
 
 ---
 
-**Q19.** Which is WRONG?
-- a) "I love programming." (Simple, stative)
-- b) "I am loving programming." (Wrong — should be Simple)
-- c) "I have loved programming for 10 years." (Simple, correct)
-
-**Answer:** ___________
-
----
-
-**Q20.** Complete the story with correct tenses:
-*"I _____________ (work) here for 2 years. Right now, I _____________ (develop) a new feature. My colleague _____________ (already / finish) the UI part, so I _____________ (just / start) the backend."*
-
-- a) have worked / am developing / has already finished / have just started
-- b) work / am developing / already finished / just started
-- c) have been working / develop / has already finished / just start
-
-**Answer:** ___________
-
----
-
-## Answer Key
-
-| Q | Answer | Unit | Explanation |
-|---|---|---|---|
-| 1 | a | 1 | Present Continuous for action happening now |
-| 2 | a | 2 | Correct — Present Simple for habit |
-| 3 | b | 4 | "Want" is stative, not used in continuous |
-| 4 | b | 3 | "For 20 years" = permanent situation → Present Simple |
-| 5 | a | 4 | "Mean" is stative → Simple, not continuous |
-| 6 | a | 6 | Correct — Past Continuous + Simple for interrupted action |
-| 7 | b | 5-6 | "When" question about interrupted action = Past Continuous |
-| 8 | b | 6 | Duration in past = Past Continuous, not Simple |
-| 9 | b | 7 | Correct — Present Perfect for result now |
-| 10 | c | 8 | Correct — Present Perfect for lifetime experience |
-| 11 | a or b | 7-8 | Both acceptable; "a" emphasizes duration, "b" emphasizes process |
-| 12 | b | 9 | Correct — Present Perfect Continuous for duration |
-| 13 | b | 10 | Correct — Present Perfect Simple for countable results |
-| 14 | b | 9-10 | Process (been testing) + result (have found) |
-| 15 | a | 3-4 | "Know" is stative; "working" is action now |
-| 16 | a | 6 | Past Continuous for background action |
-| 17 | c | 9-10 | Alternative: "have" referring to result |
-| 18 | a | 5-6, 7 | Past Continuous + Past Perfect (had finished) |
-| 19 | b | 4 | "Love" is stative, not used in continuous |
-| 20 | a | 1-10 | Have worked (duration), am developing (now), has finished (result), have started (recent) |
-
----
-
-## Scoring
-
-**18–20 correct:** Excellent! You've mastered Units 1–10. Focus on refinement in Week 02.  
-**15–17 correct:** Good! Identify which units gave you trouble. Focus on those in Week 02.  
-**12–14 correct:** Fair. You understand the concepts but need more practice with mixed exercises.  
-**<12 correct:** Review all 10 units together and repeat Day 06 review before Week 02.
-
----
-
-## Next Step (After Test)
-
-1. Mark your score above
-2. Identify which questions you got wrong
-3. Categorize errors by unit: _______________
-4. **Most problematic units:** _______________
-5. Add 3–5 example errors to [bug-log/grammar-bugs.md](../../bug-log/grammar-bugs.md)
-
----
-
-*Time to take the test: _____ minutes*  
-*Your score: _____ / 20*  
-*Date completed: _____ *
+*Time to complete: _____ minutes*  
+*Your total score: _____ / 100*  
+*Accuracy percentage: _____%*  
+*Date completed: _____*

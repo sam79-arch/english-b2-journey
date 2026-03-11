@@ -17,27 +17,20 @@
 
 ---
 
-### Day 07 (03-11): Mini Test + Diagnosis 📊
+### Day 07 (03-11): Grammar Test + Diagnosis 📊
 
-**Morning (60 min):**
-1. **Grammar Test** (20 min):
-   - Mix of 20 questions covering Units 1–10
-   - 2 questions per unit minimum
-   - Format: Choose correct tense/correct the sentence
+**Total: 100 mixed sentences -- Same format as Days 08–13**
 
-2. **Self-Review** (25 min):
-   - Mark your answers
-   - Identify patterns in your mistakes
-   - Which units did you struggle with most?
+**Morning/Afternoon (2–3 hours):**
 
-3. **Update Bug Log** (15 min):
-   - Categorize errors by unit
-   - Record root causes
-   - Examples: Unit 3 (stative verbs), Unit 6 (past cont. vs simple), etc.
-
-**Afternoon (30 min):**
-- Lightweight: Read through your diagnostic and plan intensity for Days 8–13
-- Optional: Write 5 reflection sentences about your weakest area
+1. **Warm-up (10 min):** Review Units 1–10 concepts
+2. **Mixed Exercise Block 1 (50 min):** 50 mixed sentences — Easy to Medium difficulty
+3. **Break (10 min):** Rest & hydrate
+4. **Mixed Exercise Block 2 (50 min):** 50 mixed sentences — Medium to Hard difficulty
+5. **Self-Diagnosis & Bug Log (20 min):**
+   - Mark errors
+   - Identify weak units from test
+   - Add 3–5 errors to bug log with explanations
 
 ---
 
