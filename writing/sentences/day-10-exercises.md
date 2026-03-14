@@ -1,8 +1,8 @@
-# Day 10 - Advanced Grammar Exercise: Present Perfect (Result & Experience)
+# Day 10 - Advanced Grammar Exercise: Past Simple & Past Continuous
 
 **Date:** 2026-03-14  
 **Difficulty Level:** Advanced (B2)  
-**Focus:** Units 7–8: Present Perfect (Result, Experience, Ongoing Duration)  
+**Focus:** Units 5–6: Past Simple (I did) & Past Continuous (I was doing)  
 **Total Questions:** 65  
 **Target Score:** 80+ / 100  
 **Time Allocation:** 2.5–3 hours
@@ -13,172 +13,52 @@
 
 | Form | Usage | Example |
 |---|---|---|
-| **Present Perfect** | Action finished, result matters NOW (recent, no specific time) | *I have finished my work* |
-| **Present Perfect: Experience** | Had experience/visited place (ever? How many times?) | *Have you been to Japan?* |
-| **Present Perfect: Duration** | Started in past, continues to now | *I have lived here for 10 years* |
-| **Past Simple** | Action finished, specific time mentioned OR no connection to present | *I finished yesterday / I worked there* |
+| **Past Simple** | Finished action in past; specific time mentioned or no connection to present | *I worked yesterday / I fixed the bug* |
+| **Past Continuous** | Ongoing action in the past; often interrupted by another action | *I was working when he called* |
+| **Combination** | Interrupted action: Past Continuous + Past Simple | *I was coding when the server crashed* |
+| **Simultaneous Actions** | Two parallel actions in progress at same time | *While she was presenting, I was taking notes* |
 
 ---
 
-# SECTION A: Multiple Choice — Present Perfect Edge Cases & Duration (20 questions)
+# SECTION A: Multiple Choice — Past Simple vs Continuous & Timing (20 questions)
 
-**Instructions:** Choose the correct option. Each question tests understanding of Present Perfect vs Past Simple or timing nuances.
+**Instructions:** Choose the correct option. Each question tests understanding of Past Simple vs Past Continuous timing and usage.
 
 ---
 
-**1.** "I _______ my work. Can I go home now?"
+**1.** "I _______ my work when my manager called me."
 - a) finished
-- b) have finished
-- c) am finishing
+- b) was finishing
+- c) have finished
 - d) finish
 
 **Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**2.** "_______ you ever _______ to Paris?"
-- a) Did / go
-- b) Have / been
-- c) Are / going
-- d) Do / go
+**2.** "While she _______ the presentation, the power went out."
+- a) gave
+- b) was giving
+- c) has given
+- d) gives
 
 **Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**3.** "She _______ the project last week, so it's finally done."
-- a) has completed
-- b) completed
-- c) is completing
-- d) completes
+**3.** "He _______ breakfast when I arrived at the office."
+- a) had
+- b) was having
+- c) has had
+- d) have
 
 **Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**4.** "I _______ this restaurant many times, and it's always excellent."
-- a) visited
-- b) have visited
-- c) visit
-- d) am visiting
-
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
-
----
-
-**5.** "How many countries _______ you _______?"
-- a) did / visit
-- b) have / visited
-- c) are / visiting
-- d) do / visit
-
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
-
----
-
-**6.** "I _______ my keys! I can't find them anywhere."
-- a) lose
-- b) lost
-- c) have lost
-- d) am losing
-
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
-
----
-
-**7.** "She _______ in this city for 15 years and has no plans to leave."
-- a) lives
-- b) lived
-- c) has lived
-- d) is living
-
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
-
----
-
-**8.** "The server _______ down three times this month already."
-- a) goes
-- b) went
-- c) has gone
-- d) is going
-
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
-
----
-
-**9.** "I _______ to Korea twice in my life."
-- a) go
-- b) went
-- c) have been
-- d) am going
-
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
-
----
-
-**10.** "How long _______ you _______ him?"
-- a) did / know
-- b) have / known
-- c) are / knowing
-- d) do / know
-
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
-
----
-
-**11.** "She _______ the bug yet, but she's still working on it."
-- a) don't find
-- b) didn't find
-- c) hasn't found
-- d) isn't finding
-
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
-
----
-
-**12.** "_______ you ever _______ a programming language?"
-- a) Do / learn
-- b) Did / learn
-- c) Have / learned
-- d) Are / learning
-
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
-
----
-
-**13.** "I _______ as a programmer for 8 years now."
-- a) work
-- b) worked
-- c) have worked
-- d) am working
-
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
-
----
-
-**14.** "They _______ the database _______ yesterday afternoon."
-- a) have / updated
-- b) updated / —
-- c) are / updating
-- d) update / —
-
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
-
----
-
-**15.** "She _______ to Thailand twice. The first time was in 2020."
-- a) goes
-- b) went
-- c) has been
-- d) is going
-
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
-
----
-
-**16.** "I _______ this course already, so I understand the concepts well."
-- a) complete
-- b) completed
+**4.** "I _______ the bug fix yesterday morning."
+- a) completed
+- b) was completing
 - c) have completed
 - d) am completing
 
@@ -186,41 +66,161 @@
 
 ---
 
-**17.** "How many developers _______ you _______ so far?"
-- a) did / meet
-- b) have / met
-- c) are / meeting
-- d) do / meet
+**5.** "What _______ you _______ when the meeting started?"
+- a) did / do
+- b) were / doing
+- c) are / doing
+- d) have / done
 
 **Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**18.** "He _______ breakfast _______, but he's very hungry now."
-- a) hasn't / eaten
-- b) didn't / eat
-- c) isn't / eating
-- d) doesn't / eat
+**6.** "She _______ three projects while she _______ at our company."
+- a) completed / worked
+- b) was completing / was working
+- c) completed / was working
+- d) has completed / is working
 
 **Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**19.** "The report _______ been sent yet. Can you check on it?"
-- a) didn't
-- b) hasn't
-- c) isn't
-- d) won't
+**7.** "When the client called, I _______ in a meeting."
+- a) sat
+- b) was sitting
+- c) have sat
+- d) am sitting
 
 **Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**20.** "I _______ this error before, so I know exactly how to fix it."
-- a) encounter
-- b) encountered
-- c) have encountered
-- d) am encountering
+**8.** "They _______ the database upgrade all night."
+- a) performed
+- b) were performing
+- c) have performed
+- d) perform
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**9.** "I _______ the error while _______ the code."
+- a) found / reviewing
+- b) was finding / was reviewing
+- c) found / was reviewing
+- d) have found / reviewing
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**10.** "Last week, we _______ working on that issue for three days."
+- a) spent
+- b) were spending
+- c) have spent
+- d) spend
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**11.** "The server _______ down while we _______ the update."
+- a) went / were installing
+- b) was going / were installing
+- c) went / installed
+- d) goes / are installing
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**12.** "I _______ concentrating when you _______ the question."
+- a) wasn't / asked
+- b) wasn't / were asking
+- c) didn't / asked
+- d) don't / are asking
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**13.** "Yesterday afternoon, she _______ the report when I _______ by her office."
+- a) wrote / passed
+- b) was writing / passed
+- c) was writing / was passing
+- d) writes / pass
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**14.** "They _______ a video conference at 10 AM yesterday."
+- a) held
+- b) were holding
+- c) have held
+- d) hold
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**15.** "While my colleague _______ the code, I _______ the tests."
+- a) reviewed / wrote
+- b) was reviewing / was writing
+- c) was reviewing / wrote
+- d) reviews / write
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**16.** "I _______ about the problem all morning."
+- a) thought
+- b) was thinking
+- c) have thought
+- d) think
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**17.** "When the fire alarm _______, we _______ in a meeting."
+- a) went off / were sitting
+- b) was going off / were sitting
+- c) went off / sat
+- d) goes off / sit
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**18.** "She _______ the deadline approaching, so she _______ faster."
+- a) saw / worked
+- b) was seeing / was working
+- c) saw / was working
+- d) has seen / is working
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**19.** "I _______ this feature last month."
+- a) implementing
+- b) was implementing
+- c) implemented
+- d) have implemented
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**20.** "While they _______ lunch, an important email _______ in."
+- a) had / came
+- b) were having / came
+- c) were having / was coming
+- d) have / come
 
 **Answer: ___   |   Unit: ___   |   Explanation: ___**
 
@@ -234,49 +234,21 @@
 
 ---
 
-## Dialogue 1: Project Status Meeting
+## Dialogue 1: What Happened During the Outage
 
-**Context:** A manager asks a team member about their project progress.
-
----
-
-**Manager:** Hi! How **have you been** [Error 1: _______________] with the API integration?
-
-**Team Lead:** Good news! I **have complete** [Error 2: _______________] the database schema last week. It's ready for testing.
-
-**Manager:** Excellent! **How long have you worked** [Error 3: _______________] on this project?
-
-**Team Lead:** About three months. And I **have fixed** [Error 4: _______________] most of the critical bugs already. We're **have tested** [Error 5: _______________] everything thoroughly.
-
-**Manager:** Perfect! You've done great work. Let's proceed to the next phase.
+**Context:** A manager asks what happened while the server was down.
 
 ---
 
-**Errors Found:**
+**Manager:** What **you were doing** [Error 1: _______________] when the outage occurred?
 
-| Error # | Incorrect Form | Correct Form | Explanation |
-|---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+**Developer:** I **was debugging** [Error 2: _______________] the authentication module. Suddenly, the system **crashed** [Error 3: _______________] and all my work disappeared.
 
----
+**Manager:** **Were you working** alone **at the time?** [Error 4: _______________]
 
-## Dialogue 2: Travel Discussion
+**Developer:** No, my colleague **worked** [Error 5: _______________] on the frontend while the crash happened. We both lost our progress.
 
-**Context:** Two colleagues discuss their recent travels.
-
----
-
-**Alex:** **Have you ever went** [Error 1: _______________] to Southeast Asia?
-
-**Jordan:** Yes! **I have been** [Error 2: _______________] to Thailand and Vietnam several times. The experience **has changed** [Error 3: _______________] my perspective on travel. **Have you been** there?
-
-**Alex:** I **have not visit** [Error 4: _______________] yet, but I'm planning to go next year. **How long you have lived** [Error 5: _______________] abroad?
-
-**Jordan:** For about 5 years now. It's been an amazing journey.
+**Manager:** That's unfortunate. Did you manage to recover the data?
 
 ---
 
@@ -292,19 +264,47 @@
 
 ---
 
-## Dialogue 3: Job Interview
+## Dialogue 2: Client Meeting Gone Wrong
 
-**Context:** An interviewer asks a candidate about their background.
+**Context:** A team lead explains what happened during a client presentation.
 
 ---
 
-**Interviewer:** Welcome! **I have read** [Error 1: _______________] your CV with great interest. **Have you have** [Error 2: _______________] experience with cloud technologies?
+**Team Lead:** I **presented** [Error 1: _______________] the proposal when the projector **stopped working** [Error 2: _______________].
 
-**Candidate:** Yes, I **have worked** [Error 3: _______________] with AWS for three years. I **also has completed** [Error 4: _______________] several cloud certification courses.
+**Manager:** Oh no! What **did clients do** [Error 3: _______________]?
 
-**Interviewer:** Wonderful! **How many projects you have completed** [Error 5: _______________] using cloud infrastructure?
+**Team Lead:** They **waited** [Error 4: _______________] patiently while we **fixed** [Error 5: _______________] the technical issue. Fortunately, we rescheduled and everything went well the next day.
 
-**Candidate:** I've worked on about 10 major projects. Each one has taught me something valuable.
+**Manager:** Good to hear. The client still seems satisfied.
+
+---
+
+**Errors Found:**
+
+| Error # | Incorrect Form | Correct Form | Explanation |
+|---|---|---|---|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
+| 5 | | | |
+
+---
+
+## Dialogue 3: Late Night Work Session
+
+**Context:** A team member explains their work late into the evening.
+
+---
+
+**Employee:** I **worked** [Error 1: _______________] on the database migration since 8 PM. At 11 PM, **I was discovering** [Error 2: _______________] a critical issue.
+
+**Supervisor:** **What was happening** [Error 3: _______________] exactly?
+
+**Employee:** The data **was corrupting** [Error 4: _______________] due to the old system configuration. I **worked** [Error 5: _______________] until 2 AM to resolve it.
+
+**Supervisor:** Thank you for your dedication. Make sure you rest tomorrow.
 
 ---
 
@@ -324,15 +324,15 @@
 
 # SECTION C: Paragraph Correction (3 paragraphs × 4 errors = 12 errors)
 
-**Instructions:** Each paragraph contains 4 grammar errors related to Present Perfect or Past Simple. Underline the errors and rewrite the corrected paragraph.
+**Instructions:** Each paragraph contains 4 grammar errors related to Past Simple or Past Continuous. Underline the errors and rewrite the corrected paragraph.
 
 ---
 
-## Paragraph 1: Software Development Progress
+## Paragraph 1: The Day of the Big Launch
 
 **Original Text:**
 
-"Our team has been working on this mobile application for 6 months, and we have completed the first version successfully. I have saw the user feedback, which is incredibly positive. The developers have fixed all the major bugs already, and we have updated the documentation three times. Each team member have contributed amazing ideas to make this project a success. We have launched the app on the app store last Tuesday, and the response has been amazing already."
+"We were preparing the launch when the testing manager discovered a critical bug. While everyone was working frantically to fix the issue, I was reviewing the code all night. At 6 AM, we finally deployed the update while customers was starting their day. The team members were celebrating our success, although they were exhausted from the long hours they worked overnight. Despite the challenges, we successfully launched the feature while maintaining our commitment to quality."
 
 **Errors Found:**
 
@@ -349,11 +349,11 @@ ________________________________________________________________________________
 
 ---
 
-## Paragraph 2: Professional Experience
+## Paragraph 2: A Day in the Office
 
 **Original Text:**
 
-"I have worked as a software engineer for 12 years, and I have managed many successful projects. Since I join this company two years ago, I have led a team of 8 developers. My colleague has worked with me on several innovations that has changed our industry. We have present our findings at international conferences, and we have receive multiple awards for our work. The experience I have gained have been invaluable to my career growth."
+"I was sitting at my desk and answered emails when my colleague approached. She was explaining a problem she encountered while setting up the new server. I stopped what I was doing and listened carefully to understand the issue. While she was talking, another email arrived with urgent requirements for the project. We were discussing solutions for two hours, and we finally come up with a viable plan by lunchtime."
 
 **Errors Found:**
 
@@ -370,11 +370,11 @@ ________________________________________________________________________________
 
 ---
 
-## Paragraph 3: Learning Journey
+## Paragraph 3: Storm and Power Loss
 
 **Original Text:**
 
-"Since I started learning English three years ago, I have made tremendous progress. I have attended many courses, and each experience have improved my skills significantly. I have visited England twice, and the immersion experience have helped me understand the language better. Recently, I have passed the B2 examination, which has been a major achievement. My teachers have encouraged me throughout this journey, and I have never gave up on my goals."
+"The storm arrived unexpectedly while the team was working on the critical system. Lightning struck the building, and all the computers was shutting down instantly. We were losing power for three hours, during which we couldn't access any files or systems. When the electricity returned, we discovered that some data were corrupted from the abrupt shutdown. The team was working frantically all night because they were trying to restore everything before the next morning."
 
 **Errors Found:**
 
@@ -401,8 +401,8 @@ ________________________________________________________________________________
 
 **1. Which is correct?**
 
-A) I have finished my work last night.  
-B) I have finished my work.
+A) I worked when you arrived.  
+B) I was working when you arrived.
 
 **Correct Answer: ___**
 
@@ -410,14 +410,14 @@ B) I have finished my work.
 
 _______________________________________________________________________________________________________________________________
 
-**Model Explanation:** Sentence B is correct. Present Perfect should not include a specific past time reference like "last night." Sentence A mixes Present Perfect with a specific time marker, which is grammatically incorrect. Use Past Simple if you want to mention "last night."
+**Model Explanation:** Sentence B is correct. "Was working" (Past Continuous) shows an ongoing action at a specific moment in the past. "When you arrived" is an interrupting action, so the main action must be continuous. Sentence A (Past Simple) would mean the entire action of working was completed at that moment, which doesn't fit the context.
 
 ---
 
 **2. Which is correct?**
 
-A) Have you ever been to Japan?  
-B) Did you ever go to Japan?
+A) She studied hard yesterday.  
+B) She was studying hard yesterday.
 
 **Correct Answer: ___**
 
@@ -425,14 +425,14 @@ B) Did you ever go to Japan?
 
 _______________________________________________________________________________________________________________________________
 
-**Model Explanation:** Both are technically acceptable, but A is preferred in modern English for questions about life experience without a specific time context. "Have you ever been" emphasizes the experience aspect, while "Did you go" sounds more formal or dated.
+**Model Explanation:** Both are technically acceptable depending on emphasis. Sentence A (Past Simple) emphasizes the completed action of studying. Sentence B (Past Continuous) suggests she was in a state of studying throughout yesterday. Without an interruption or specific context, A is more commonly used.
 
 ---
 
 **3. Which is correct?**
 
-A) She has lived in Paris for 20 years.  
-B) She has lived in Paris since 2006.
+A) While I was coding, the power went out.  
+B) While I coded, the power was going out.
 
 **Correct Answer: ___**
 
@@ -440,14 +440,14 @@ B) She has lived in Paris since 2006.
 
 _______________________________________________________________________________________________________________________________
 
-**Model Explanation:** Both are correct and express the same meaning using different time expressions. "For 20 years" indicates the duration, while "since 2006" indicates the starting point. Both work perfectly with Present Perfect for actions that started in the past and continue to now.
+**Model Explanation:** Sentence A is correct. The first action (coding) should be Past Continuous because it was ongoing when interrupted. The second action (power went out) should be Past Simple as the interrupting event. Sentence B reverses this incorrectly—"was going out" suggests a gradual process, which doesn't fit a sudden outage.
 
 ---
 
 **4. Which is correct?**
 
-A) I have completed the project already.  
-B) I have already completed the project.
+A) I fixed three bugs yesterday morning.  
+B) I was fixing three bugs yesterday morning.
 
 **Correct Answer: ___**
 
@@ -455,14 +455,14 @@ B) I have already completed the project.
 
 _______________________________________________________________________________________________________________________________
 
-**Model Explanation:** Both are grammatically correct. In A, "already" comes at the end and is less common. In B, "already" comes between the auxiliary and main verb, which is the standard position in modern English. Both convey the same meaning of something finished before expected.
+**Model Explanation:** Both are acceptable with different meanings. Sentence A (Past Simple) emphasizes completion of all three bugs. Sentence B (Past Continuous) emphasizes the ongoing process but is less precise about completion. Context matters, but A is clearer for stating what was accomplished.
 
 ---
 
 **5. Which is correct?**
 
-A) How many countries have you visited?  
-B) How many countries did you visit?
+A) When the client called, I prepared the report.  
+B) When the client called, I was preparing the report.
 
 **Correct Answer: ___**
 
@@ -470,14 +470,14 @@ B) How many countries did you visit?
 
 _______________________________________________________________________________________________________________________________
 
-**Model Explanation:** Sentence A is correct for life experience questions without specifying a time period. "Have you visited" focuses on the number of experiences accumulated over their lifetime. "Did you visit" (B) would require a specific time context like "last year" to be appropriate.
+**Model Explanation:** Sentence B is correct. "Was preparing" shows an ongoing action when the call came in. Sentence A (Past Simple) suggests the preparation started after the call, which contradicts the timeline. The Past Continuous is essential here for showing that both actions overlapped in time.
 
 ---
 
 **6. Which is correct?**
 
-A) They hasn't finished the task yet.  
-B) They haven't finished the task yet.
+A) Yesterday, I worked in the office all day.  
+B) Yesterday, I was working in the office all day.
 
 **Correct Answer: ___**
 
@@ -485,14 +485,14 @@ B) They haven't finished the task yet.
 
 _______________________________________________________________________________________________________________________________
 
-**Model Explanation:** Sentence B is correct. "They" is a plural pronoun, so it requires the plural auxiliary "have" (haven't), not the singular "has" (hasn't). Subject-verb agreement is essential in Present Perfect negative forms.
+**Model Explanation:** Both are acceptable with subtle differences. Sentence A (Past Simple) is more direct and common for stating facts. Sentence B (Past Continuous) emphasizes the continuous nature of the day-long activity. For most contexts, A is preferred when stating a simple fact about the day.
 
 ---
 
 **7. Which is correct?**
 
-A) The server has crashed three times this week.  
-B) The server has crashed three times in this week.
+A) While she reviewed the code, I wrote the tests.  
+B) While she was reviewing the code, I was writing the tests.
 
 **Correct Answer: ___**
 
@@ -500,14 +500,14 @@ B) The server has crashed three times in this week.
 
 _______________________________________________________________________________________________________________________________
 
-**Model Explanation:** Sentence A is correct. We use "this week" (not "in this week") with Present Perfect when the time period is still ongoing. "This week" is a flexible time marker that works with Present Perfect because the week hasn't ended yet.
+**Model Explanation:** Sentence B is better. Past Continuous shows two parallel, simultaneous actions happening at the same time. Sentence A (Past Simple) suggests the actions happened sequentially, which contradicts "while." The continuous form is required when both actions are concurrent.
 
 ---
 
 **8. Which is correct?**
 
-A) I have never worked with Python.  
-B) I have not never worked with Python.
+A) The server crashed at midnight.  
+B) The server was crashing at midnight.
 
 **Correct Answer: ___**
 
@@ -515,14 +515,14 @@ B) I have not never worked with Python.
 
 _______________________________________________________________________________________________________________________________
 
-**Model Explanation:** Sentence A is correct. In English, we use either "never" OR "have not," never both together (that would be a double negative). "Have never worked" is the proper way to express a life experience that hasn't occurred.
+**Model Explanation:** Sentence A is correct. A crash is a momentary, completed event at a specific time, so Past Simple is appropriate. Sentence B (Past Continuous) incorrectly suggests a gradual process, which doesn't match the nature of a sudden system failure.
 
 ---
 
 **9. Which is correct?**
 
-A) She left the office an hour ago.  
-B) She has left the office an hour ago.
+A) I sent the email while the meeting was happening.  
+B) I was sending the email while the meeting was happening.
 
 **Correct Answer: ___**
 
@@ -530,14 +530,14 @@ B) She has left the office an hour ago.
 
 _______________________________________________________________________________________________________________________________
 
-**Model Explanation:** Sentence A is correct. When a specific past time is mentioned ("an hour ago"), you must use Past Simple, not Present Perfect. Present Perfect is incompatible with explicit past time markers.
+**Model Explanation:** Sentence A is correct. Sending an email is a quick, completed action that occurred during the meeting, so Past Simple fits. Sentence B inappropriately makes the email-sending continuous, suggesting a prolonged action that overlapped with the meeting, which is less natural.
 
 ---
 
 **10. Which is correct?**
 
-A) How long has she been working here?  
-B) How long she has been working here?
+A) They were discussing the issue for two hours.  
+B) They discussed the issue for two hours.
 
 **Correct Answer: ___**
 
@@ -545,7 +545,7 @@ B) How long she has been working here?
 
 _______________________________________________________________________________________________________________________________
 
-**Model Explanation:** Sentence A is correct. In questions using "How long" with Present Perfect, the auxiliary "has" must come before the subject "she" (question word order). Sentence B violates question word order rules.
+**Model Explanation:** Both are technically possible. Sentence B (Past Simple) is more natural for stating a completed duration ("for two hours" emphasizes completion). Sentence A (Past Continuous) is grammatically correct but slightly less common when stating a completed time period. A is acceptable but B is preferred.
 
 ---
 
@@ -562,92 +562,95 @@ ________________________________________________________________________________
 
 ## Performance Indicators
 
-- **90-100%:** Excellent! Master Units 7-8 ✅
-- **80-89%:** Good! Present Perfect is solid
-- **70-79%:** Need more practice on duration & experience
-- **<70%:** Review Units 7-8 basics with focus on Past Simple vs Present Perfect
+- **90-100%:** Excellent! Master Units 5-6 ✅
+- **80-89%:** Good! Past tenses are solid
+- **70-79%:** Need more practice on interrupted actions
+- **<70%:** Review Units 5-6 basics with focus on timing difference
 
 ---
 
 ## Key Focus Areas for Day 10
 
-### **Unit 7: Present Perfect 1 (Result) — I have done** 🟩
+### **Unit 5: Past Simple (I did)** 🟩
 
-Use when:
-- **Action finished, result matters NOW**
-- **Doesn't matter when** (no specific time mentioned)
-- **Affects present** (connection to now, recent)
+Use for:
+- **Finished actions** (specific time or no time mentioned)
+- **Sequential events** in the past
+- **No connection** to the present
+- **Questions/negatives** about past events
 
-**Signals:** "Just", "already", "yet", "recently", "for", "since"
+**Signals:** Yesterday, last week, in 2020, ago, when, at 3 PM
 
 **Examples:**
-- "I **have lost** my key" ✅ (still important now)
-- "She **has completed** the project" ✅ (finished, result matters)
-- "The server **has crashed** 3 times" ✅ (recent, relevant now)
+- "I **fixed** the bug yesterday" ✅
+- "The server **crashed** last night" ✅
+- "When did you **start** the project?" ✅
 
 **Common pattern:**
 ```
-I / You / We / They → have + past participle
-He / She / It → has + past participle
+Regular verbs: work → worked, fix → fixed
+Irregular verbs: go → went, write → wrote, see → saw
+Questions: Did you...? | When...? | What did...?
 ```
 
 ---
 
-### **Unit 8: Present Perfect 2 (Experience & Duration) — Have you been to? / How long?** 🟩
+### **Unit 6: Past Continuous (I was doing)** 🟩
 
 Use for:
-- **Experience** (visited place, done activity)
-- **"Have you ever...?"** questions
-- **Count of experiences**
-- **Duration** (started past, continues now)
+- **Ongoing action** interrupted by another action
+- **Two parallel actions** happening at same time
+- **Emphasis** on the duration of a past action
+- **Background action** for context
+
+**Signals:** While, when (for ongoing action), all day, all night, meanwhile
 
 **Examples:**
-- "**Have you ever been** to Japan?" ✅
-- "I **have been** to Paris twice" ✅
-- "She **has lived** here for 10 years" ✅
-- "**How long have you known** him?" ✅
+- "I **was working** when he called" ✅
+- "While she **was presenting**, the power went out" ✅
+- "They **were discussing** for two hours" ✅
 
 **Pattern:**
 ```
-"Have you ever + past participle?"
-→ "Yes, I have" OR "No, I have never"
+was/were + -ing form
+I/He/She/It was working
+You/We/They were working
 
-"How long + have/has + subject + past participle?"
+Questions: What were you doing...? | Were you...?
 ```
 
 ---
 
-### **Units 7 + 8 vs Past Simple** 🎯
+### **Units 5 + 6: Interrupted Action Pattern** 🎯
 
-| | Present Perfect | Past Simple |
+| | Past Simple | Past Continuous |
 |--|--|--|
-| When? | Doesn't matter / Just finished | Specific time (yesterday, 2020) |
-| Connection | To present moment | No connection to present |
-| Time markers | for, since, ever, yet, already | yesterday, last week, in 2020, ago |
-| **Examples** | "I have lost my key" | "I lost my key yesterday" |
-| | "Have you been?" | "Did you go in 2020?" |
+| Timing | Completed action at a point in time | Ongoing action at moment interrupted |
+| **Example 1** | "I finished the report" | "I was finishing when..." |
+| **Example 2** | "The power went out" (interrupt) | "I was working" (background) |
+| **Use** | Main/interrupting action | Background/ongoing action |
 
 ---
 
 ## Common Mistakes to Avoid
 
-❌ "I have finished my work **last night**" → Specific time not allowed  
-✅ "I **finished** my work last night" OR "I **have finished** my work"
+❌ "While I worked, he called" → Need continuous form for background action  
+✅ "While I **was working**, he called"
 
-❌ "How long **you have** lived here?" → Wrong word order  
-✅ "**How long have you lived** here?"
+❌ "The server was crashing at midnight" → Should be moment in time  
+✅ "The server **crashed** at midnight"
 
-❌ "They **hasn't** completed the task" → Wrong agreement  
-✅ "They **haven't** completed the task"
+❌ "She was studying yesterday all day" → Less natural than simple past  
+✅ "She **studied** yesterday all day"
 
 ---
 
 ## When Done
 
 - Check your answers and compare explanations
-- Note patterns in dialogue corrections for confidence building
-- Focus on Present Perfect vs Past Simple distinction
-- Review duration expressions (for/since) carefully
+- Note timing patterns in dialogues
+- Focus on interrupted action structures
+- Review "while" and "when" usage carefully
 
 **Target:** 80+ / 100 to proceed confidently
 
