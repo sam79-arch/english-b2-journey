@@ -1,820 +1,571 @@
-# Day 10 - Mixed Exercises: Units 7-8 (Present Perfect Basic)
+# Day 10 - Advanced Grammar Exercise: Present Perfect (Result & Experience)
 
 **Date:** 2026-03-14  
-**Focus:** Units 7-8 (Present Perfect: Result & Experience)  
-**Total Questions:** 100  
-**Target Score:** 85+ / 100
+**Difficulty Level:** Advanced (B2)  
+**Focus:** Units 7–8: Present Perfect (Result, Experience, Ongoing Duration)  
+**Total Questions:** 65  
+**Target Score:** 80+ / 100  
+**Time Allocation:** 2.5–3 hours
 
 ---
 
-## Section A: Multiple Choice (Questions 1-40)
+## 📚 Core Grammar Reminder
 
-Choose the **correct option** for each sentence.
+| Form | Usage | Example |
+|---|---|---|
+| **Present Perfect** | Action finished, result matters NOW (recent, no specific time) | *I have finished my work* |
+| **Present Perfect: Experience** | Had experience/visited place (ever? How many times?) | *Have you been to Japan?* |
+| **Present Perfect: Duration** | Started in past, continues to now | *I have lived here for 10 years* |
+| **Past Simple** | Action finished, specific time mentioned OR no connection to present | *I finished yesterday / I worked there* |
 
 ---
 
-**1.** I _______ my work.
-- a) finish
+# SECTION A: Multiple Choice — Present Perfect Edge Cases & Duration (20 questions)
+
+**Instructions:** Choose the correct option. Each question tests understanding of Present Perfect vs Past Simple or timing nuances.
+
+---
+
+**1.** "I _______ my work. Can I go home now?"
+- a) finished
 - b) have finished
-- c) finished
-- d) am finishing
+- c) am finishing
+- d) finish
 
-**Answer: ___**
-
----
-
-**2.** _______ you ever _______ Japan?
-- a) Have / been to
-- b) Did / go to
-- c) Are / going to
-- d) Do / go to
-
-**Answer: ___**
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**3.** She _______ the new database system.
-- a) implement
-- b) has implemented
-- c) implemented
-- d) is implementing
-
-**Answer: ___**
-
----
-
-**4.** I _______ this restaurant many times.
-- a) have visited
-- b) visited
-- c) visit
-- d) am visiting
-
-**Answer: ___**
-
----
-
-**5.** _______ he ever _______ a programming language?
-- a) Have / learned
-- b) Has / learned
-- c) Did / learn
-- d) Is / learning
-
-**Answer: ___**
-
----
-
-**6.** I _______ my keys!
-- a) lose
-- b) lost
-- c) have lost
-- d) am losing
-
-**Answer: ___**
-
----
-
-**7.** How many times _______ you _______ to this conference?
-- a) have / been
-- b) did / go
-- c) are / going
-- d) do / go
-
-**Answer: ___**
-
----
-
-**8.** My colleague _______ three projects this month.
-- a) completes
-- b) completed
-- c) has completed
-- d) is completing
-
-**Answer: ___**
-
----
-
-**9.** _______ to Paris?
-- a) Did you go
-- b) Have you been
-- c) Do you go
-- d) Are you going
-
-**Answer: ___**
-
----
-
-**10.** She _______ the code yet.
-- a) doesn't check
-- b) didn't check
-- c) hasn't checked
-- d) isn't checking
-
-**Answer: ___**
-
----
-
-**11.** I _______ a programmer for 5 years.
-- a) am
-- b) have been
-- c) was
-- d) will be
-
-**Answer: ___**
-
----
-
-**12.** _______ you ever _______ to Korea?
-- a) Have / gone
-- b) Did / go
+**2.** "_______ you ever _______ to Paris?"
+- a) Did / go
+- b) Have / been
 - c) Are / going
 - d) Do / go
 
-**Answer: ___**
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**13.** They _______ three bugs in the system.
-- a) find
-- b) found
-- c) have found
-- d) are finding
+**3.** "She _______ the project last week, so it's finally done."
+- a) has completed
+- b) completed
+- c) is completing
+- d) completes
 
-**Answer: ___**
-
----
-
-**14.** I _______ this task before.
-- a) do
-- b) did
-- c) have done
-- d) am doing
-
-**Answer: ___**
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**15.** _______ ever _______ a business presentation?
-- a) Did you / give
-- b) Have you / given
-- c) Are you / giving
-- d) Do you / give
+**4.** "I _______ this restaurant many times, and it's always excellent."
+- a) visited
+- b) have visited
+- c) visit
+- d) am visiting
 
-**Answer: ___**
-
----
-
-**16.** The report _______ completed yet.
-- a) isn't
-- b) wasn't
-- c) hasn't been
-- d) won't be
-
-**Answer: ___**
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**17.** I _______ to Thailand twice.
-- a) go
-- b) went
-- c) have been
-- d) am going
-
-**Answer: ___**
-
----
-
-**18.** How many countries _______ you _______?
+**5.** "How many countries _______ you _______?"
 - a) did / visit
 - b) have / visited
 - c) are / visiting
 - d) do / visit
 
-**Answer: ___**
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**19.** She _______ the new office yet.
-- a) doesn't see
-- b) didn't see
-- c) hasn't seen
-- d) isn't seeing
+**6.** "I _______ my keys! I can't find them anywhere."
+- a) lose
+- b) lost
+- c) have lost
+- d) am losing
 
-**Answer: ___**
-
----
-
-**20.** I _______ this error before, and now I know how to fix it.
-- a) encounter
-- b) encountered
-- c) have encountered
-- d) am encountering
-
-**Answer: ___**
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**21.** _______ you _______ breakfast?
-- a) Did / eat
-- b) Have / eaten
-- c) Are / eating
-- d) Do / eat
-
-**Answer: ___**
-
----
-
-**22.** They _______ the website since morning.
-- a) build
-- b) built
-- c) have been building
-- d) are building
-
-**Answer: ___**
-
----
-
-**23.** How many times _______ you _______ this book?
-- a) did / read
-- b) have / read
-- c) are / reading
-- d) do / read
-
-**Answer: ___**
-
----
-
-**24.** I _______ never _______ this error.
-- a) have / seen
-- b) did / see
-- c) am / seeing
-- d) do / see
-
-**Answer: ___**
-
----
-
-**25.** She _______ worked on this server since 2020.
-- a) have
-- b) has
-- c) was
-- d) is
-
-**Answer: ___**
-
----
-
-**26.** _______ you ever _______ a computer?
-- a) Did / build
-- b) Have / built
-- c) Are / building
-- d) Do / build
-
-**Answer: ___**
-
----
-
-**27.** The project _______ completed.
-- a) has been
-- b) was
-- c) is
-- d) will be
-
-**Answer: ___**
-
----
-
-**28.** I _______ in this city for 10 years.
-- a) live
+**7.** "She _______ in this city for 15 years and has no plans to leave."
+- a) lives
 - b) lived
-- c) have lived
-- d) am living
+- c) has lived
+- d) is living
 
-**Answer: ___**
-
----
-
-**29.** _______ ever _______ Shanghai?
-- a) Did you / visit
-- b) Have you / visited
-- c) Are you / visiting
-- d) Do you / visit
-
-**Answer: ___**
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**30.** She _______ the report three times today.
-- a) checked
-- b) checks
-- c) has checked
-- d) is checking
+**8.** "The server _______ down three times this month already."
+- a) goes
+- b) went
+- c) has gone
+- d) is going
 
-**Answer: ___**
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**31.** I _______ this course, so I understand the concept.
+**9.** "I _______ to Korea twice in my life."
+- a) go
+- b) went
+- c) have been
+- d) am going
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**10.** "How long _______ you _______ him?"
+- a) did / know
+- b) have / known
+- c) are / knowing
+- d) do / know
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**11.** "She _______ the bug yet, but she's still working on it."
+- a) don't find
+- b) didn't find
+- c) hasn't found
+- d) isn't finding
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**12.** "_______ you ever _______ a programming language?"
+- a) Do / learn
+- b) Did / learn
+- c) Have / learned
+- d) Are / learning
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**13.** "I _______ as a programmer for 8 years now."
+- a) work
+- b) worked
+- c) have worked
+- d) am working
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**14.** "They _______ the database _______ yesterday afternoon."
+- a) have / updated
+- b) updated / —
+- c) are / updating
+- d) update / —
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**15.** "She _______ to Thailand twice. The first time was in 2020."
+- a) goes
+- b) went
+- c) has been
+- d) is going
+
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
+
+---
+
+**16.** "I _______ this course already, so I understand the concepts well."
 - a) complete
 - b) completed
 - c) have completed
 - d) am completing
 
-**Answer: ___**
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**32.** _______ you _______ to London?
-- a) Did / go
-- b) Have / been
-- c) Are / going
-- d) Do / go
-
-**Answer: ___**
-
----
-
-**33.** They _______ the bug yet.
-- a) didn't find
-- b) don't find
-- c) haven't found
-- d) aren't finding
-
-**Answer: ___**
-
----
-
-**34.** I _______ never _______ this programming language.
-- a) have / worked with
-- b) did / work with
-- c) am / working with
-- d) do / work with
-
-**Answer: ___**
-
----
-
-**35.** How many developers _______ you _______?
+**17.** "How many developers _______ you _______ so far?"
 - a) did / meet
 - b) have / met
 - c) are / meeting
 - d) do / meet
 
-**Answer: ___**
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**36.** She _______ a machine learning course.
-- a) has taken
-- b) took
-- c) takes
-- d) is taking
+**18.** "He _______ breakfast _______, but he's very hungry now."
+- a) hasn't / eaten
+- b) didn't / eat
+- c) isn't / eating
+- d) doesn't / eat
 
-**Answer: ___**
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**37.** _______ you ever _______ to a tech conference?
-- a) Did / go
-- b) Have / been
-- c) Are / going
-- d) Do / go
+**19.** "The report _______ been sent yet. Can you check on it?"
+- a) didn't
+- b) hasn't
+- c) isn't
+- d) won't
 
-**Answer: ___**
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**38.** I _______ three meetings already.
-- a) attended
-- b) attend
-- c) have attended
-- d) am attending
+**20.** "I _______ this error before, so I know exactly how to fix it."
+- a) encounter
+- b) encountered
+- c) have encountered
+- d) am encountering
 
-**Answer: ___**
+**Answer: ___   |   Unit: ___   |   Explanation: ___**
 
 ---
 
-**39.** The system _______ not updated yet.
-- a) is
-- b) was
-- c) has
-- d) will be
-
-**Answer: ___**
-
----
-
-**40.** I _______ ever _______ this documentation.
-- a) haven't / seen
-- b) didn't / see
-- c) am not / seeing
-- d) don't / see
-
-**Answer: ___**
-
----
-
-## Section B: Fill in the Blank (Questions 41-60)
-
-Write the **correct form** of the verb (present perfect).
-
----
-
-**41.** I _______ (finish) my work.
-
-**Answer: ___**
-
----
-
-**42.** _______ you ever _______ (be) to Japan?
-
-**Answer: ___**
-
----
-
-**43.** She _______ (lose) her laptop!
-
-**Answer: ___**
-
----
-
-**44.** How many times _______ you _______ (visit) this country?
-
-**Answer: ___**
-
----
-
-**45.** I _______ (work) on this project for months.
-
-**Answer: ___**
-
----
-
-**46.** He _______ (live) in this city for 15 years.
-
-**Answer: ___**
-
----
-
-**47.** They _______ (complete) the database.
-
-**Answer: ___**
-
 ---
 
-**48.** _______ you _______ (eat) breakfast yet?
+# SECTION B: Realistic Dialogue Correction (3 dialogues × 5 errors = 15 errors to identify)
 
-**Answer: ___**
+**Instructions:** Read each dialogue. Identify and correct the 5 grammatical errors in each conversation.
 
 ---
 
-**49.** I _______ never _______ (see) this error before.
+## Dialogue 1: Project Status Meeting
 
-**Answer: ___**
+**Context:** A manager asks a team member about their project progress.
 
 ---
 
-**50.** She _______ (attend) three conferences this month.
+**Manager:** Hi! How **have you been** [Error 1: _______________] with the API integration?
 
-**Answer: ___**
+**Team Lead:** Good news! I **have complete** [Error 2: _______________] the database schema last week. It's ready for testing.
 
----
+**Manager:** Excellent! **How long have you worked** [Error 3: _______________] on this project?
 
-**51.** How many languages _______ you _______ (learn)?
+**Team Lead:** About three months. And I **have fixed** [Error 4: _______________] most of the critical bugs already. We're **have tested** [Error 5: _______________] everything thoroughly.
 
-**Answer: ___**
+**Manager:** Perfect! You've done great work. Let's proceed to the next phase.
 
 ---
 
-**52.** I _______ (be) to France twice.
+**Errors Found:**
 
-**Answer: ___**
+| Error # | Incorrect Form | Correct Form | Explanation |
+|---|---|---|---|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
+| 5 | | | |
 
 ---
 
-**53.** The server _______ not _______ (update) yet.
+## Dialogue 2: Travel Discussion
 
-**Answer: ___**
+**Context:** Two colleagues discuss their recent travels.
 
 ---
 
-**54.** She _______ (find) the bug!
+**Alex:** **Have you ever went** [Error 1: _______________] to Southeast Asia?
 
-**Answer: ___**
+**Jordan:** Yes! **I have been** [Error 2: _______________] to Thailand and Vietnam several times. The experience **has changed** [Error 3: _______________] my perspective on travel. **Have you been** there?
 
----
+**Alex:** I **have not visit** [Error 4: _______________] yet, but I'm planning to go next year. **How long you have lived** [Error 5: _______________] abroad?
 
-**55.** How long _______ you _______ (know) him?
+**Jordan:** For about 5 years now. It's been an amazing journey.
 
-**Answer: ___**
-
 ---
 
-**56.** They _______ (work) on this API for 2 months.
+**Errors Found:**
 
-**Answer: ___**
+| Error # | Incorrect Form | Correct Form | Explanation |
+|---|---|---|---|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
+| 5 | | | |
 
 ---
 
-**57.** I _______ (read) this book many times.
+## Dialogue 3: Job Interview
 
-**Answer: ___**
+**Context:** An interviewer asks a candidate about their background.
 
 ---
-
-**58.** _______ you _______ (meet) the new manager yet?
 
-**Answer: ___**
+**Interviewer:** Welcome! **I have read** [Error 1: _______________] your CV with great interest. **Have you have** [Error 2: _______________] experience with cloud technologies?
 
----
+**Candidate:** Yes, I **have worked** [Error 3: _______________] with AWS for three years. I **also has completed** [Error 4: _______________] several cloud certification courses.
 
-**59.** We _______ (send) the final report.
+**Interviewer:** Wonderful! **How many projects you have completed** [Error 5: _______________] using cloud infrastructure?
 
-**Answer: ___**
+**Candidate:** I've worked on about 10 major projects. Each one has taught me something valuable.
 
 ---
 
-**60.** How many presentations _______ you _______ (give)?
+**Errors Found:**
 
-**Answer: ___**
+| Error # | Incorrect Form | Correct Form | Explanation |
+|---|---|---|---|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
+| 5 | | | |
 
 ---
-
-## Section C: Error Identification & Correction (Questions 61-75)
-
-**Identify the error** and **write the correct sentence**.
 
 ---
 
-**61.** I have lost my key.
+# SECTION C: Paragraph Correction (3 paragraphs × 4 errors = 12 errors)
 
-**Correct: ___** (No error / Already correct)
+**Instructions:** Each paragraph contains 4 grammar errors related to Present Perfect or Past Simple. Underline the errors and rewrite the corrected paragraph.
 
 ---
 
-**62.** Did you ever been to Japan?
+## Paragraph 1: Software Development Progress
 
-**Correct: ___**
+**Original Text:**
 
----
+"Our team has been working on this mobile application for 6 months, and we have completed the first version successfully. I have saw the user feedback, which is incredibly positive. The developers have fixed all the major bugs already, and we have updated the documentation three times. Each team member have contributed amazing ideas to make this project a success. We have launched the app on the app store last Tuesday, and the response has been amazing already."
 
-**63.** She has completed the project.
+**Errors Found:**
 
-**Correct: ___** (No error / Already correct)
-
----
+| # | Incorrect Phrase | Correct Form | Explanation |
+|---|---|---|---|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
 
-**64.** I have lived in this city for 10 years.
+**Corrected Paragraph:**
 
-**Correct: ___** (No error / Already correct)
+_______________________________________________________________________________________________________________________________________________________________________________________________
 
 ---
 
-**65.** How many times did you go to Paris?
+## Paragraph 2: Professional Experience
 
-**Correct: ___**
+**Original Text:**
 
----
+"I have worked as a software engineer for 12 years, and I have managed many successful projects. Since I join this company two years ago, I have led a team of 8 developers. My colleague has worked with me on several innovations that has changed our industry. We have present our findings at international conferences, and we have receive multiple awards for our work. The experience I have gained have been invaluable to my career growth."
 
-**66.** They hasn't finished the task yet.
+**Errors Found:**
 
-**Correct: ___**
-
----
+| # | Incorrect Phrase | Correct Form | Explanation |
+|---|---|---|---|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
 
-**67.** I have ever seen this error.
+**Corrected Paragraph:**
 
-**Correct: ___**
+_______________________________________________________________________________________________________________________________________________________________________________________________
 
 ---
 
-**68.** She was lost her keys.
+## Paragraph 3: Learning Journey
 
-**Correct: ___**
+**Original Text:**
 
----
+"Since I started learning English three years ago, I have made tremendous progress. I have attended many courses, and each experience have improved my skills significantly. I have visited England twice, and the immersion experience have helped me understand the language better. Recently, I have passed the B2 examination, which has been a major achievement. My teachers have encouraged me throughout this journey, and I have never gave up on my goals."
 
-**69.** Have you ever been to Thailand?
+**Errors Found:**
 
-**Correct: ___** (No error / Already correct)
-
----
+| # | Incorrect Phrase | Correct Form | Explanation |
+|---|---|---|---|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
 
-**70.** I am lived in Hanoi for 8 years.
+**Corrected Paragraph:**
 
-**Correct: ___**
+_______________________________________________________________________________________________________________________________________________________________________________________________
 
 ---
 
-**71.** How long have you know him?
-
-**Correct: ___**
-
 ---
 
-**72.** They have find the bug yet.
+# SECTION D: Explain the Answer — Choose & Justify (10 questions)
 
-**Correct: ___**
+**Instructions:** Two sentences are provided for each question. Choose the CORRECT sentence and write 1–2 sentences explaining WHY using proper grammar terminology.
 
 ---
-
-**73.** I haven't see this before.
 
-**Correct: ___**
+**1. Which is correct?**
 
----
+A) I have finished my work last night.  
+B) I have finished my work.
 
-**74.** She has been to Korea twice.
+**Correct Answer: ___**
 
-**Correct: ___** (No error / Already correct)
-
----
+**Student Explanation (1–2 sentences):**
 
-**75.** Have they completed the report?
+_______________________________________________________________________________________________________________________________
 
-**Correct: ___** (No error / Already correct)
+**Model Explanation:** Sentence B is correct. Present Perfect should not include a specific past time reference like "last night." Sentence A mixes Present Perfect with a specific time marker, which is grammatically incorrect. Use Past Simple if you want to mention "last night."
 
 ---
 
-## Section D: Translation (Vietnamese → English) (Questions 76-90)
+**2. Which is correct?**
 
-Translate the sentences using present perfect correctly.
+A) Have you ever been to Japan?  
+B) Did you ever go to Japan?
 
----
-
-**76.** Tôi đã hoàn thành công việc.
-
-**Answer: ___**
+**Correct Answer: ___**
 
----
+**Student Explanation (1–2 sentences):**
 
-**77.** Bạn đã bao giờ đi đến Nhật Bản chưa?
+_______________________________________________________________________________________________________________________________
 
-**Answer: ___**
+**Model Explanation:** Both are technically acceptable, but A is preferred in modern English for questions about life experience without a specific time context. "Have you ever been" emphasizes the experience aspect, while "Did you go" sounds more formal or dated.
 
 ---
-
-**78.** Cô ấy đã mất chìa khóa của cô ấy.
-
-**Answer: ___**
 
----
+**3. Which is correct?**
 
-**79.** Bao nhiêu lần bạn đã đến nước này?
+A) She has lived in Paris for 20 years.  
+B) She has lived in Paris since 2006.
 
-**Answer: ___**
+**Correct Answer: ___**
 
----
+**Student Explanation (1–2 sentences):**
 
-**80.** Tôi đã sống ở thành phố này được 10 năm.
+_______________________________________________________________________________________________________________________________
 
-**Answer: ___**
+**Model Explanation:** Both are correct and express the same meaning using different time expressions. "For 20 years" indicates the duration, while "since 2006" indicates the starting point. Both work perfectly with Present Perfect for actions that started in the past and continue to now.
 
 ---
-
-**81.** Anh ấy chưa hoàn thành dự án.
 
-**Answer: ___**
+**4. Which is correct?**
 
----
+A) I have completed the project already.  
+B) I have already completed the project.
 
-**82.** Tôi đã thấy lỗi này nhiều lần.
+**Correct Answer: ___**
 
-**Answer: ___**
-
----
+**Student Explanation (1–2 sentences):**
 
-**83.** Chúng tôi đã làm việc trên API này được 2 tháng.
+_______________________________________________________________________________________________________________________________
 
-**Answer: ___**
+**Model Explanation:** Both are grammatically correct. In A, "already" comes at the end and is less common. In B, "already" comes between the auxiliary and main verb, which is the standard position in modern English. Both convey the same meaning of something finished before expected.
 
 ---
 
-**84.** Bạn đã đi tới Pháp bao nhiêu lần?
+**5. Which is correct?**
 
-**Answer: ___**
+A) How many countries have you visited?  
+B) How many countries did you visit?
 
----
-
-**85.** Cô ấy không bao giờ đi đến Hàn Quốc.
-
-**Answer: ___**
+**Correct Answer: ___**
 
----
+**Student Explanation (1–2 sentences):**
 
-**86.** Tôi đã hoàn thành khóa học này.
+_______________________________________________________________________________________________________________________________
 
-**Answer: ___**
+**Model Explanation:** Sentence A is correct for life experience questions without specifying a time period. "Have you visited" focuses on the number of experiences accumulated over their lifetime. "Did you visit" (B) would require a specific time context like "last year" to be appropriate.
 
 ---
-
-**87.** Bạn đã ăn cơm chưa?
-
-**Answer: ___**
 
----
+**6. Which is correct?**
 
-**88.** Cơ sở dữ liệu chưa được cập nhật.
+A) They hasn't finished the task yet.  
+B) They haven't finished the task yet.
 
-**Answer: ___**
+**Correct Answer: ___**
 
----
+**Student Explanation (1–2 sentences):**
 
-**89.** Làm sao bạn biết anh ấy bao lâu?
+_______________________________________________________________________________________________________________________________
 
-**Answer: ___**
+**Model Explanation:** Sentence B is correct. "They" is a plural pronoun, so it requires the plural auxiliary "have" (haven't), not the singular "has" (hasn't). Subject-verb agreement is essential in Present Perfect negative forms.
 
 ---
-
-**90.** Bạn đã từng gặp quản lý mới chưa?
 
-**Answer: ___**
+**7. Which is correct?**
 
----
+A) The server has crashed three times this week.  
+B) The server has crashed three times in this week.
 
-## Section E: Sentence Building (Questions 91-100)
+**Correct Answer: ___**
 
-Create a sentence using the given words with present perfect.
-
----
+**Student Explanation (1–2 sentences):**
 
-**91.** (I / finish / work)
+_______________________________________________________________________________________________________________________________
 
-**Answer: ___**
+**Model Explanation:** Sentence A is correct. We use "this week" (not "in this week") with Present Perfect when the time period is still ongoing. "This week" is a flexible time marker that works with Present Perfect because the week hasn't ended yet.
 
 ---
 
-**92.** (How many times / you / be / Japan)
+**8. Which is correct?**
 
-**Answer: ___**
+A) I have never worked with Python.  
+B) I have not never worked with Python.
 
----
-
-**93.** (She / complete / project / yet)
-
-**Answer: ___**
+**Correct Answer: ___**
 
----
+**Student Explanation (1–2 sentences):**
 
-**94.** (I / never / see / error / before)
+_______________________________________________________________________________________________________________________________
 
-**Answer: ___**
+**Model Explanation:** Sentence A is correct. In English, we use either "never" OR "have not," never both together (that would be a double negative). "Have never worked" is the proper way to express a life experience that hasn't occurred.
 
 ---
-
-**95.** (How long / you / know / him)
-
-**Answer: ___**
 
----
+**9. Which is correct?**
 
-**96.** (They / find / bug / already)
+A) She left the office an hour ago.  
+B) She has left the office an hour ago.
 
-**Answer: ___**
+**Correct Answer: ___**
 
----
+**Student Explanation (1–2 sentences):**
 
-**97.** (Have / you / eat / breakfast)
+_______________________________________________________________________________________________________________________________
 
-**Answer: ___**
+**Model Explanation:** Sentence A is correct. When a specific past time is mentioned ("an hour ago"), you must use Past Simple, not Present Perfect. Present Perfect is incompatible with explicit past time markers.
 
 ---
-
-**98.** (I / live / city / 10 years)
 
-**Answer: ___**
+**10. Which is correct?**
 
----
+A) How long has she been working here?  
+B) How long she has been working here?
 
-**99.** (She / attend / conference / three times / this month)
+**Correct Answer: ___**
 
-**Answer: ___**
-
----
+**Student Explanation (1–2 sentences):**
 
-**100.** (How many languages / you / learn)
+_______________________________________________________________________________________________________________________________
 
-**Answer: ___**
+**Model Explanation:** Sentence A is correct. In questions using "How long" with Present Perfect, the auxiliary "has" must come before the subject "she" (question word order). Sentence B violates question word order rules.
 
 ---
 
 ## Scoring Guide
 
-- **Section A (1-40):** 2.5 points each = 100 points
-- **Section B (41-60):** 2.5 points each = 50 points
-- **Section C (61-75):** 3 points each = 45 points
-- **Section D (76-90):** 3 points each = 45 points
-- **Section E (91-100):** 3 points each = 30 points
+- **Section A (1-20):** 4 points each = 80 points
+- **Section B (1-15):** 3 points each = 45 points
+- **Section C (1-12):** 5 points each = 60 points
+- **Section D (1-10):** 7 points each = 70 points
 
-**Total: 270 points** (Convert to /100 scale)
+**Total: 255 points** (Convert to /100 scale: divide by 2.55)
 
 ---
 
 ## Performance Indicators
 
 - **90-100%:** Excellent! Master Units 7-8 ✅
-- **80-89%:** Good! Review present perfect usage
-- **70-79%:** Need more practice on perfect form
-- **<70%:** Review Units 7-8 basics
+- **80-89%:** Good! Present Perfect is solid
+- **70-79%:** Need more practice on duration & experience
+- **<70%:** Review Units 7-8 basics with focus on Past Simple vs Present Perfect
 
 ---
 
@@ -825,7 +576,7 @@ Create a sentence using the given words with present perfect.
 Use when:
 - **Action finished, result matters NOW**
 - **Doesn't matter when** (no specific time mentioned)
-- **Affect present** (connection to now, recent)
+- **Affects present** (connection to now, recent)
 
 **Signals:** "Just", "already", "yet", "recently", "for", "since"
 
@@ -842,22 +593,26 @@ He / She / It → has + past participle
 
 ---
 
-### **Unit 8: Present Perfect 2 (Experience) — Have you been to?** 🟩
+### **Unit 8: Present Perfect 2 (Experience & Duration) — Have you been to? / How long?** 🟩
 
 Use for:
 - **Experience** (visited place, done activity)
 - **"Have you ever...?"** questions
 - **Count of experiences**
+- **Duration** (started past, continues now)
 
 **Examples:**
 - "**Have you ever been** to Japan?" ✅
 - "I **have been** to Paris twice" ✅
-- "She **has attended** many conferences" ✅
+- "She **has lived** here for 10 years" ✅
+- "**How long have you known** him?" ✅
 
 **Pattern:**
 ```
 "Have you ever + past participle?"
 → "Yes, I have" OR "No, I have never"
+
+"How long + have/has + subject + past participle?"
 ```
 
 ---
@@ -868,32 +623,37 @@ Use for:
 |--|--|--|
 | When? | Doesn't matter / Just finished | Specific time (yesterday, 2020) |
 | Connection | To present moment | No connection to present |
+| Time markers | for, since, ever, yet, already | yesterday, last week, in 2020, ago |
 | **Examples** | "I have lost my key" | "I lost my key yesterday" |
-| | "Have you been?" | "Did you go?" |
+| | "Have you been?" | "Did you go in 2020?" |
 
 ---
 
 ## Common Mistakes to Avoid
 
-❌ "I have lost my key **yesterday**" → Wrong time specified  
-✅ "I **lost** my key yesterday" OR "I **have lost** my key"
+❌ "I have finished my work **last night**" → Specific time not allowed  
+✅ "I **finished** my work last night" OR "I **have finished** my work"
 
-❌ "Did you ever been to Japan?" → Wrong grammar  
-✅ "**Have you ever been** to Japan?"
+❌ "How long **you have** lived here?" → Wrong word order  
+✅ "**How long have you lived** here?"
+
+❌ "They **hasn't** completed the task" → Wrong agreement  
+✅ "They **haven't** completed the task"
 
 ---
 
 ## When Done
 
-- Check your answers in [day-07-answer-key.md](day-07-answer-key.md)
-- Note Section E patterns for building confidence
+- Check your answers and compare explanations
+- Note patterns in dialogue corrections for confidence building
 - Focus on Present Perfect vs Past Simple distinction
+- Review duration expressions (for/since) carefully
 
-**Target:** 85+ / 100 to proceed to Days 11-13 confidently
+**Target:** 80+ / 100 to proceed confidently
 
 ---
 
-*Time to complete: 90-120 minutes*  
+*Time to complete: 2.5–3 hours*  
 *Your score: _____ / 100*  
 *Accuracy: _____%*  
 *Date completed: _____*
