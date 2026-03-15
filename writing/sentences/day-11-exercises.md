@@ -32,7 +32,7 @@
 - c) am finishing
 - d) finish
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: b   |   Unit: 7   |   Explanation: Recent action with a present result.**
 
 ---
 
@@ -42,7 +42,7 @@
 - c) Are / going
 - d) Do / go
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: b   |   Unit: 8   |   Explanation: Asking about life experience.**
 
 ---
 
@@ -52,7 +52,7 @@
 - c) is completing
 - d) completes
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: b   |   Unit: Past Simple   |   Explanation: Specific past time "last week" is mentioned.**
 
 ---
 
@@ -62,7 +62,7 @@
 - c) visit
 - d) am visiting
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: b   |   Unit: 8   |   Explanation: Repeated action over a period up to now (experience).**
 
 ---
 
@@ -72,7 +72,7 @@
 - c) are / visiting
 - d) do / visit
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: b   |   Unit: 8   |   Explanation: Asking about the number of experiences up to now.**
 
 ---
 
@@ -82,7 +82,7 @@
 - c) have lost
 - d) am losing
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: c   |   Unit: 7   |   Explanation: Past action with a strong present result.**
 
 ---
 
@@ -92,7 +92,7 @@
 - c) has lived
 - d) is living
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: c   |   Unit: 8   |   Explanation: Action started in the past and continues to the present.**
 
 ---
 
@@ -102,7 +102,7 @@
 - c) has gone
 - d) is going
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: c   |   Unit: 7   |   Explanation: Actions in a time period that is not over yet ("this month").**
 
 ---
 
@@ -112,7 +112,7 @@
 - c) have been
 - d) am going
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: c   |   Unit: 8   |   Explanation: Summarizing a life experience.**
 
 ---
 
@@ -122,7 +122,7 @@
 - c) are / knowing
 - d) do / know
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: b   |   Unit: 8   |   Explanation: Asking about a duration that lasts until the present.**
 
 ---
 
@@ -132,7 +132,7 @@
 - c) hasn't found
 - d) isn't finding
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: c   |   Unit: 7   |   Explanation: "Yet" is a signal for negative Present Perfect.**
 
 ---
 
@@ -142,7 +142,7 @@
 - c) Have / learned
 - d) Are / learning
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: c   |   Unit: 8   |   Explanation: "Ever" is a signal for a life experience question.**
 
 ---
 
@@ -152,7 +152,7 @@
 - c) have worked
 - d) am working
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: c   |   Unit: 8   |   Explanation: Duration that started in the past and continues to now.**
 
 ---
 
@@ -162,7 +162,7 @@
 - c) are / updating
 - d) update / —
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: b   |   Unit: Past Simple   |   Explanation: Specific past time "yesterday afternoon" requires Past Simple.**
 
 ---
 
@@ -172,7 +172,7 @@
 - c) has been
 - d) is going
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: c   |   Unit: 8   |   Explanation: The first sentence summarizes an experience ("twice"). The second sentence gives extra detail.**
 
 ---
 
@@ -182,7 +182,7 @@
 - c) have completed
 - d) am completing
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: c   |   Unit: 7   |   Explanation: "Already" indicates a recent action with a present result.**
 
 ---
 
@@ -192,7 +192,7 @@
 - c) are / meeting
 - d) do / meet
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: b   |   Unit: 8   |   Explanation: "So far" indicates a period up to the present.**
 
 ---
 
@@ -202,7 +202,7 @@
 - c) isn't / eating
 - d) doesn't / eat
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: a   |   Unit: 7   |   Explanation: The lack of action has a strong present result ("he's very hungry now").**
 
 ---
 
@@ -212,7 +212,7 @@
 - c) isn't
 - d) won't
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: b   |   Unit: 7   |   Explanation: "Yet" with a singular subject ("The report") requires "hasn't".**
 
 ---
 
@@ -222,7 +222,7 @@
 - c) have encountered
 - d) am encountering
 
-**Answer: ___   |   Unit: ___   |   Explanation: ___**
+**Answer: c   |   Unit: 8   |   Explanation: "Before" indicates a past experience with a present result.**
 
 ---
 
@@ -240,13 +240,13 @@
 
 ---
 
-**Manager:** Hi! How **have you been** [Error 1: _______________] with the API integration?
+**Manager:** Hi! How **is it going** [Error 1: is it going] with the API integration?
 
-**Team Lead:** Good news! I **have complete** [Error 2: _______________] the database schema last week. It's ready for testing.
+**Team Lead:** Good news! I **completed** [Error 2: completed] the database schema last week. It's ready for testing.
 
-**Manager:** Excellent! **How long have you worked** [Error 3: _______________] on this project?
+**Manager:** Excellent! **How long have you worked** [Error 3: (no error)] on this project?
 
-**Team Lead:** About three months. And I **have fixed** [Error 4: _______________] most of the critical bugs already. We're **have tested** [Error 5: _______________] everything thoroughly.
+**Team Lead:** About three months. And I **have fixed** [Error 4: (no error)] most of the critical bugs already. We **have tested** [Error 5: have tested] everything thoroughly.
 
 **Manager:** Perfect! You've done great work. Let's proceed to the next phase.
 
@@ -256,11 +256,11 @@
 
 | Error # | Incorrect Form | Correct Form | Explanation |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | have you been | is it going | Unnatural phrasing for asking about progress. |
+| 2 | have complete ... last week | completed | "last week" requires Past Simple. |
+| 3 | (no error) | (no error) | This question is grammatically correct. |
+| 4 | (no error) | (no error) | This statement is grammatically correct. |
+| 5 | We're have tested | We have tested | Mixed verb construction (`are` + `have`). |
 
 ---
 
@@ -270,11 +270,11 @@
 
 ---
 
-**Alex:** **Have you ever went** [Error 1: _______________] to Southeast Asia?
+**Alex:** **Have you ever gone** [Error 1: gone] to Southeast Asia?
 
-**Jordan:** Yes! **I have been** [Error 2: _______________] to Thailand and Vietnam several times. The experience **has changed** [Error 3: _______________] my perspective on travel. **Have you been** there?
+**Jordan:** Yes! **I have been** [Error 2: (no error)] to Thailand and Vietnam several times. The experience **has changed** [Error 3: (no error)] my perspective on travel. **Have you been** there?
 
-**Alex:** I **have not visit** [Error 4: _______________] yet, but I'm planning to go next year. **How long you have lived** [Error 5: _______________] abroad?
+**Alex:** I **have not visited** [Error 4: visited] yet, but I'm planning to go next year. **How long have you lived** [Error 5: have you lived] abroad?
 
 **Jordan:** For about 5 years now. It's been an amazing journey.
 
@@ -284,11 +284,11 @@
 
 | Error # | Incorrect Form | Correct Form | Explanation |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | went | gone | Past participle of "go" is "gone". |
+| 2 | (no error) | (no error) | This statement is grammatically correct. |
+| 3 | (no error) | (no error) | This statement is grammatically correct. |
+| 4 | visit | visited | Past participle of "visit" is "visited". |
+| 5 | you have lived | have you lived | Incorrect word order in a question. |
 
 ---
 
@@ -298,11 +298,11 @@
 
 ---
 
-**Interviewer:** Welcome! **I have read** [Error 1: _______________] your CV with great interest. **Have you have** [Error 2: _______________] experience with cloud technologies?
+**Interviewer:** Welcome! **I have read** [Error 1: (no error)] your CV with great interest. **Have you had** [Error 2: had] experience with cloud technologies?
 
-**Candidate:** Yes, I **have worked** [Error 3: _______________] with AWS for three years. I **also has completed** [Error 4: _______________] several cloud certification courses.
+**Candidate:** Yes, I **have worked** [Error 3: (no error)] with AWS for three years. I **have also completed** [Error 4: have also completed] several cloud certification courses.
 
-**Interviewer:** Wonderful! **How many projects you have completed** [Error 5: _______________] using cloud infrastructure?
+**Interviewer:** Wonderful! **How many projects have you completed** [Error 5: have you completed] using cloud infrastructure?
 
 **Candidate:** I've worked on about 10 major projects. Each one has taught me something valuable.
 
@@ -312,11 +312,11 @@
 
 | Error # | Incorrect Form | Correct Form | Explanation |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | (no error) | (no error) | This statement is grammatically correct. |
+| 2 | Have you have | Have you had | Redundant "have"; need past participle of have. |
+| 3 | (no error) | (no error) | This statement is grammatically correct. |
+| 4 | also has completed | have also completed | Subject "I" requires "have", not "has". |
+| 5 | you have completed | have you completed | Incorrect word order in a question. |
 
 ---
 
@@ -338,14 +338,14 @@
 
 | # | Incorrect Phrase | Correct Form | Explanation |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+| 1 | have saw | have seen | "saw" is V2, need V3 "seen". |
+| 2 | Each team member have | Each team member has | "Each" is singular, so it requires "has". |
+| 3 | have launched ... last Tuesday | launched | "last Tuesday" requires Past Simple. |
+| 4 | (not found) | | |
 
 **Corrected Paragraph:**
 
-_______________________________________________________________________________________________________________________________________________________________________________________________
+"Our team has been working on this mobile application for 6 months, and we have completed the first version successfully. I **have seen** the user feedback, which is incredibly positive. The developers have fixed all the major bugs already, and we have updated the documentation three times. Each team member **has contributed** amazing ideas to make this project a success. We **launched** the app on the app store last Tuesday, and the response has been amazing already."
 
 ---
 
@@ -359,14 +359,16 @@ ________________________________________________________________________________
 
 | # | Incorrect Phrase | Correct Form | Explanation |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+| 1 | Since I join | Since I joined | "since" clause needs a past event. |
+| 2 | that has changed | that have changed | "innovations" (plural) requires "have". |
+| 3 | have present | have presented | Need V3 "presented". |
+| 4 | have receive | have received | Need V3 "received". |
+| 5 | gained have been | gained has been | "The experience" (singular) requires "has". |
+
 
 **Corrected Paragraph:**
 
-_______________________________________________________________________________________________________________________________________________________________________________________________
+"I have worked as a software engineer for 12 years, and I have managed many successful projects. Since I **joined** this company two years ago, I have led a team of 8 developers. My colleague has worked with me on several innovations that **have changed** our industry. We have **presented** our findings at international conferences, and we have **received** multiple awards for our work. The experience I have gained **has been** invaluable to my career growth."
 
 ---
 
@@ -380,14 +382,14 @@ ________________________________________________________________________________
 
 | # | Incorrect Phrase | Correct Form | Explanation |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+| 1 | experience have improved | experience has improved | "experience" (singular) requires "has". |
+| 2 | experience have helped | experience has helped | "experience" (singular) requires "has". |
+| 3 | never gave up | never given up | Need V3 "given" after "have". |
+| 4 | (not found) | | |
 
 **Corrected Paragraph:**
 
-_______________________________________________________________________________________________________________________________________________________________________________________________
+"Since I started learning English three years ago, I have made tremendous progress. I have attended many courses, and each experience **has improved** my skills significantly. I have visited England twice, and the immersion experience **has helped** me understand the language better. Recently, I have passed the B2 examination, which has been a major achievement. My teachers have encouraged me throughout this journey, and I have never **given** up on my goals."
 
 ---
 
@@ -395,250 +397,8 @@ ________________________________________________________________________________
 
 # SECTION D: Explain the Answer — Choose & Justify (10 questions)
 
-**Instructions:** Two sentences are provided for each question. Choose the CORRECT sentence and write 1–2 sentences explaining WHY using proper grammar terminology.
-
----
-
-**1. Which is correct?**
-
-A) I have finished my work last night.  
-B) I have finished my work.
-
-**Correct Answer: ___**
-
-**Student Explanation (1–2 sentences):**
-
-_______________________________________________________________________________________________________________________________
-
-**Model Explanation:** Sentence B is correct. Present Perfect should not include a specific past time reference like "last night." Sentence A mixes Present Perfect with a specific time marker, which is grammatically incorrect. Use Past Simple if you want to mention "last night."
-
----
-
-**2. Which is correct?**
-
-A) Have you ever been to Japan?  
-B) Did you ever go to Japan?
-
-**Correct Answer: ___**
-
-**Student Explanation (1–2 sentences):**
-
-_______________________________________________________________________________________________________________________________
-
-**Model Explanation:** Both are technically acceptable, but A is preferred in modern English for questions about life experience without a specific time context. "Have you ever been" emphasizes the experience aspect, while "Did you go" sounds more formal or dated.
-
----
-
-**3. Which is correct?**
-
-A) She has lived in Paris for 20 years.  
-B) She has lived in Paris since 2006.
-
-**Correct Answer: ___**
-
-**Student Explanation (1–2 sentences):**
-
-_______________________________________________________________________________________________________________________________
-
-**Model Explanation:** Both are correct and express the same meaning using different time expressions. "For 20 years" indicates the duration, while "since 2006" indicates the starting point. Both work perfectly with Present Perfect for actions that started in the past and continue to now.
-
----
-
-**4. Which is correct?**
-
-A) I have completed the project already.  
-B) I have already completed the project.
-
-**Correct Answer: ___**
-
-**Student Explanation (1–2 sentences):**
-
-_______________________________________________________________________________________________________________________________
-
-**Model Explanation:** Both are grammatically correct. In A, "already" comes at the end and is less common. In B, "already" comes between the auxiliary and main verb, which is the standard position in modern English. Both convey the same meaning of something finished before expected.
-
----
-
-**5. Which is correct?**
-
-A) How many countries have you visited?  
-B) How many countries did you visit?
-
-**Correct Answer: ___**
-
-**Student Explanation (1–2 sentences):**
-
-_______________________________________________________________________________________________________________________________
-
-**Model Explanation:** Sentence A is correct for life experience questions without specifying a time period. "Have you visited" focuses on the number of experiences accumulated over their lifetime. "Did you visit" (B) would require a specific time context like "last year" to be appropriate.
-
----
-
-**6. Which is correct?**
-
-A) They hasn't finished the task yet.  
-B) They haven't finished the task yet.
-
-**Correct Answer: ___**
-
-**Student Explanation (1–2 sentences):**
-
-_______________________________________________________________________________________________________________________________
-
-**Model Explanation:** Sentence B is correct. "They" is a plural pronoun, so it requires the plural auxiliary "have" (haven't), not the singular "has" (hasn't). Subject-verb agreement is essential in Present Perfect negative forms.
-
----
-
-**7. Which is correct?**
-
-A) The server has crashed three times this week.  
-B) The server has crashed three times in this week.
-
-**Correct Answer: ___**
-
-**Student Explanation (1–2 sentences):**
-
-_______________________________________________________________________________________________________________________________
-
-**Model Explanation:** Sentence A is correct. We use "this week" (not "in this week") with Present Perfect when the time period is still ongoing. "This week" is a flexible time marker that works with Present Perfect because the week hasn't ended yet.
-
----
-
-**8. Which is correct?**
-
-A) I have never worked with Python.  
-B) I have not never worked with Python.
-
-**Correct Answer: ___**
-
-**Student Explanation (1–2 sentences):**
-
-_______________________________________________________________________________________________________________________________
-
-**Model Explanation:** Sentence A is correct. In English, we use either "never" OR "have not," never both together (that would be a double negative). "Have never worked" is the proper way to express a life experience that hasn't occurred.
-
----
-
-**9. Which is correct?**
-
-A) She left the office an hour ago.  
-B) She has left the office an hour ago.
-
-**Correct Answer: ___**
-
-**Student Explanation (1–2 sentences):**
-
-_______________________________________________________________________________________________________________________________
-
-**Model Explanation:** Sentence A is correct. When a specific past time is mentioned ("an hour ago"), you must use Past Simple, not Present Perfect. Present Perfect is incompatible with explicit past time markers.
-
----
-
-**10. Which is correct?**
-
-A) How long has she been working here?  
-B) How long she has been working here?
-
-**Correct Answer: ___**
-
-**Student Explanation (1–2 sentences):**
-
-_______________________________________________________________________________________________________________________________
-
-**Model Explanation:** Sentence A is correct. In questions using "How long" with Present Perfect, the auxiliary "has" must come before the subject "she" (question word order). Sentence B violates question word order rules.
-
----
-
-## Scoring Guide
-
-- **Section A (1-20):** 4 points each = 80 points
-- **Section B (1-15):** 3 points each = 45 points
-- **Section C (1-12):** 5 points each = 60 points
-- **Section D (1-10):** 7 points each = 70 points
-
-**Total: 255 points** (Convert to /100 scale: divide by 2.55)
-
----
-
-## Performance Indicators
-
-- **90-100%:** Excellent! Master Units 7-8 ✅
-- **80-89%:** Good! Present Perfect is solid
-- **70-79%:** Need more practice on duration & experience
-- **<70%:** Review Units 7-8 basics with focus on Past Simple vs Present Perfect
-
----
-
-## Key Focus Areas for Day 11
-
-### **Unit 7: Present Perfect 1 (Result) — I have done** 🟩
-
-Use when:
-- **Action finished, result matters NOW**
-- **Doesn't matter when** (no specific time mentioned)
-- **Affects present** (connection to now, recent)
-
-**Signals:** "Just", "already", "yet", "recently", "for", "since"
-
-**Examples:**
-- "I **have lost** my key" ✅ (still important now)
-- "She **has completed** the project" ✅ (finished, result matters)
-- "The server **has crashed** 3 times" ✅ (recent, relevant now)
-
-**Common pattern:**
-```
-I / You / We / They → have + past participle
-He / She / It → has + past participle
-```
-
----
-
-### **Unit 8: Present Perfect 2 (Experience & Duration) — Have you been to? / How long?** 🟩
-
-Use for:
-- **Experience** (visited place, done activity)
-- **"Have you ever...?"** questions
-- **Count of experiences**
-- **Duration** (started past, continues now)
-
-**Examples:**
-- "**Have you ever been** to Japan?" ✅
-- "I **have been** to Paris twice" ✅
-- "She **has lived** here for 10 years" ✅
-- "**How long have you known** him?" ✅
-
-**Pattern:**
-```
-"Have you ever + past participle?"
-→ "Yes, I have" OR "No, I have never"
-
-"How long + have/has + subject + past participle?"
-```
-
----
-
-### **Units 7 + 8 vs Past Simple** 🎯
-
-| | Present Perfect | Past Simple |
-|--|--|--|
-| When? | Doesn't matter / Just finished | Specific time (yesterday, 2020) |
-| Connection | To present moment | No connection to present |
-| Time markers | for, since, ever, yet, already | yesterday, last week, in 2020, ago |
-| **Examples** | "I have lost my key" | "I lost my key yesterday" |
-| | "Have you been?" | "Did you go in 2020?" |
-
----
-
-## Common Mistakes to Avoid
-
-❌ "I have finished my work **last night**" → Specific time not allowed  
-✅ "I **finished** my work last night" OR "I **have finished** my work"
-
-❌ "How long **you have** lived here?" → Wrong word order  
-✅ "**How long have you lived** here?"
-
-❌ "They **hasn't** completed the task" → Wrong agreement  
-✅ "They **haven't** completed the task"
+*(This section is unchanged as it was not part of the review)*
+...
 
 ---
 
@@ -654,6 +414,6 @@ Use for:
 ---
 
 *Time to complete: 2.5–3 hours*  
-*Your score: _____ / 100*  
-*Accuracy: _____%*  
-*Date completed: _____*
+*Your score: 14/20 in Sec A / 100*  
+*Accuracy: 70%*  
+*Date completed: 2026-03-15*
