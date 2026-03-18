@@ -4,67 +4,13 @@
 
 ## 🟢 **FLOWCHART 1: PRESENT SIMPLE vs CONTINUOUS**
 
-```
-             Hành động đang xảy ra RIGHT NOW?
-                        │
-            ┌───────────┴───────────┐
-           YES                     NO
-            │                       │
-        CONTINUOUS              Thói quen / sự thật?
-      "am, is, are            ┌────────┴────────┐
-         + V-ing"            YES               NO
-         │                    │                 │
-    Ví dụ:              SIMPLE            Stative verb?
-  "I'm working"       "V, Vs"            ┌──────┴──────┐
-  "She's drinking"                      YES                  NO
-                      Ví dụ:              │                      │
-                    "I work"        SIMPLE               CONTINUOUS
-                    "She drinks"   "LUÔN Simple"   (temporary action)
-                                   Ví dụ:              Ví dụ:
-                                   "I believe"      "I'm living in Hanoi"
-                                   "She loves"      (tạm thời, không permanent)
-```
+![Present Simple vs Continuous Flowchart](flowchart1.png)
 
 ---
 
 ## 🟠 **FLOWCHART 2: PAST SIMPLE vs CONTINUOUS vs PERFECT**
 
-```
-         Có thời gian cụ thể (yesterday, in 2020)?
-                        │
-            ┌───────────┴───────────┐
-           YES                     NO
-            │                       │
-        PAST SIMPLE          Đang xảy ra
-       "V-ed"              khi bị ngắt?
-           │               ┌────────┴────────┐
-      Ví dụ:             YES               NO
-    "I finished"         │                 │
-    "at 5 PM"      PAST CONTINUOUS   Xảy ra TRƯỚC
-                  "was, were +        một mốc quá khứ?
-                    V-ing"           ┌──────┴──────┐
-                        │           YES          NO
-                    Ví dụ:           │            │
-                  "I was         PAST          (dùng
-                  working"      PERFECT     Present
-                  "when you   "had + V-ed"   Perfect)
-                  called"         │
-                          Hành động kéo dài bao lâu
-                          trước mốc quá khứ?
-                          ┌──────┴──────┐
-                       YES (có "for")  NO
-                          │             │
-                   PAST PERFECT    PAST PERFECT
-                   CONTINUOUS      SIMPLE
-                   "had been       "had + V-ed"
-                    + V-ing"
-                          │             │
-                    Ví dụ:         Ví dụ:
-                  "I had been   "I had finished
-                   working for   before he
-                   2 hours when   arrived"
-                   he arrived"
-```
+![Past Simple vs Continuous vs Perfect Flowchart](flowchart2.png)
 
 ---
 
