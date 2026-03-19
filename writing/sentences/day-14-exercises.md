@@ -168,16 +168,10 @@ The number of team members assigned to the new mobile app project are growing ev
 
 | Error # | Location | Wrong | Correct | Why |
 |---------|----------|-------|---------|-----|
-| 1 (SVA) | "The number of team members...are growing" | **are** | **is** | "The number of" = singular subject |
-| 2 (Tense) | "We have been building...for three months**already**" | **have been building** | **have built** | "Already" signals completion, use Perfect Simple |
-| 3 (Stative) | "I **am thinking** we have found" | **am thinking** | **think** | "Think" (opinion) is stative, cannot use continuous |
-| 4 (Signal) | "A number of challenges **have emerged**" + "**Since** last Monday" | **have** (wrong subject?) | **has** or rephrase | "A number of" requires "have," but check SVA; actually "have emerged" is correct for "challenges" |
-
-**Correction:** Actually, let me review:
-- "have emerged" with "A number of challenges" = correct (plural)
-- "Since last Monday" works with Perfect Continuous "have been implementing" ✓
-
-**Real Error 4:** "we **are having difficulty solving**" → should be "**we have difficulty solving**" (stative "have," cannot be continuous)
+| **1 (SVA)** | "The number of team members...***are*** growing" | **are** | **is** | "The number of..." = singular subject (the concept of "number"), NOT plural. Use singular "**is**" |
+| **2 (Tense)** | "We have been building...for three months ***already***" | **have been building** | **have built** | "Already" signals COMPLETION (result), not ongoing duration. Change to Perfect Simple "**have built**" |
+| **3 (Stative)** | "I ***am thinking*** we have found a solid foundation" | **am thinking** | **think** | "Think" (= opinion/believe) is stative verb; NEVER use continuous. Should be "**I think**" |
+| **4 (Stative)** | "we ***are having difficulty*** solving issues" | **are having** | **have difficulty** | "Have" (possess/experience) is stative; cannot use continuous form. Change to "**we have difficulty solving**" |
 
 ---
 
@@ -198,20 +192,20 @@ Actually, let me reconsider—this is correct usage. Let me revise the paragraph
 
 ---
 
-## [REVISED] PARAGRAPH 2: Sprint Review
+## PARAGRAPH 2: Sprint Review
 
 Either the project manager or the QA engineers is deciding on the final code freeze timing. The team have been testing the application for two weeks and have discovered 47 bugs already. A number of critical issues are needing immediate attention before launch. I am seeing suspicious login behavior recently, which requires investigation.
 
 ---
 
-**📋 ANSWER KEY — PARAGRAPH 2 (Revised)**
+**📋 ANSWER KEY — PARAGRAPH 2**
 
 | Error # | Location | Wrong | Correct | Why |
 |---------|----------|-------|---------|-----|
-| 1 (SVA) | "Either...or the QA engineers **is**" | **is** | **are** | Verb agrees with nearest noun: "engineers" (plural) |
-| 2 (Tense) | "have discovered 47 bugs **already**" | **have discovered** → consider rephrasing or keep, but conflict with "for two weeks" | **have been discovering** OR "discovered 47 bugs" (no "already") | "Already" suggests completion; "for two weeks" suggests ongoing process |
-| 3 (Stative) | "A number of critical issues **are needing**" | **are needing** | **need** | "Need" is stative; cannot use continuous |
-| 4 (Stative) | "I **am seeing** suspicious login behavior" | **am seeing** | **see** or **have seen** | "See" (perceive) is stative; cannot use continuous |
+| **1 (SVA)** | "Either the project manager or the QA engineers ***is*** deciding" | **is** | **are** | Rule: Either...or—verb agrees with **nearest noun**. "Engineers" (plural, nearest) → use plural "**are**" |
+| **2 (Tense)** | "have been testing for two weeks and ***have discovered*** 47 bugs already" | **have discovered** | **discovered** or change whole clause | Mixing: "for two weeks" (duration) suggests continuous, but "discovered 47 bugs already" (result count) suggests simple past. Better: "**have been testing...and discovered** 47 bugs" OR "**have discovered** 47 bugs after testing for two weeks" |
+| **3 (Stative)** | "A number of critical issues ***are needing*** immediate attention" | **are needing** | **need** | "Need" is stative verb; NEVER use continuous. Should be "**A number of critical issues need** immediate attention" |
+| **4 (Stative)** | "I ***am seeing*** suspicious login behavior" | **am seeing** | **see** | "See" (= perceive/notice) is stative; cannot use continuous. Should be "**I see** suspicious login behavior" |
 
 ---
 
@@ -225,10 +219,10 @@ A number of vulnerabilities have been discovered in the new API, and the securit
 
 | Error # | Location | Wrong | Correct | Why |
 |---------|----------|-------|---------|-----|
-| 1 (SVA) | "the security team **are working**" | **are** | **is** | "Team" = singular collective noun in this context; use singular |
-| 2 (Tense) | "completed over 50 issues **already**" after "have been discovering...for three weeks" | Mixing "have been" (continuous for 3 weeks) + "completed...already" (simple for count) | Restructure: "**have completed** over 50 issues" for result-focused, OR "**have been discovering and patching** bugs for three weeks" emphasizing process | "Already" signals completion; "for three weeks" signals duration. Choose one tense per clause. |
-| 3 (Stative) | "I **am understanding** the risks" | **am understanding** | **understand** | "Understand" is stative; cannot use continuous |
-| 4 (SVA/Grammar) | "Neither the product management nor the development lead **are aware**" | **are** | **is** | Verb agrees with nearest noun: "lead" (singular) |
+| **1 (SVA)** | "the security team **are** working" | **are** | **is** | "Team" = singular collective noun; verb agrees with "team." Use singular "is" |
+| **2 (Tense Mix)** | "have been discovering...for three weeks and **completed** over 50 issues already" | **have been...completed** | **have completed** over 50 issues for result-focused approach | "For three weeks" suggests duration (Perfect Continuous) BUT "completed 50 issues already" emphasizes RESULT. Mixed tenses in same clause = confusing. Choose: either "**have been discovering for 3 weeks**" (duration) OR "**have completed 50 issues**" (result), not both |
+| **3 (Stative)** | "I **am understanding** the risks" | **am understanding** | **understand** | "Understand" (= know/realize) is stative verb; NEVER use continuous form. No "am understanding," "is understanding," etc. |
+| **4 (SVA: Neither...nor)** | "Neither the product management nor the development lead **are aware**" | **are** | **is** | Rule: With Neither...nor, verb agrees with **nearest noun**. "Lead" (singular, closest to verb) → use singular "**is aware**" |
 
 ---
 
