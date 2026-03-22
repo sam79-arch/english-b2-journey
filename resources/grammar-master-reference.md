@@ -3,26 +3,10 @@
 
 ---
 
-# ⭐ **SECTION 4: START HERE — QUICK DECISION CARD (10 dòng)**
-
-**Mỗi khoảnh khắc, hỏi câu này theo thứ tự:**
-
-| Bước | Câu Hỏi | → Kết Quả |
-|------|---------|----------|
-| **1️⃣** | Từ này có phải **stative verb**? (like, know, think, seem, have, see) | **CÓ** → LUÔN **Simple** (dừng) |
-| | | **KHÔNG** → Sang Bước 2 |
-| **2️⃣** | Đang nói về **when**? | **Hiện tại** → Bước 3A |
-| | | **Quá khứ** → Bước 3B |
-| | | **Perfect** (từ quá khứ đến giờ) → Bước 3C |
-| **3A** | **Hiện tại**: Thói quen hay đang làm ngay? | Thói quen → **Present Simple** |
-| | | Đang làm → **Present Continuous** |
-| **3B** | **Quá khứ**: Hoàn thành hay đang xảy ra khi bị ngắt? | Hoàn thành → **Past Simple** |
-| | | Đang xảy ra + bị ngắt → **Past Continuous** |
-| **3C** | **Perfect**: Số lượng hay kéo dài? | Số lượng (3 reports) → **Perfect Simple** |
-| | | Kéo dài (for 3 hours) → **Perfect Continuous** |
-| **4️⃣** | **SVA check**: Subject là gì? (**The number** / **A number** / **Either...or** / **Police**?) | Áp dụng SVA rules |
-
----
+# 📖 CÁCH HỌC:
+Lần 1 — Đọc kỹ Section 1 → 2 → 3 (học nội dung)
+Lần 2 — Gập lại, chỉ nhìn Section 4 (test bản thân)
+Khi làm bài — Mở Section 4 trước, không chắc mới tra 1-2-3
 
 ---
 
@@ -138,12 +122,28 @@
 
 ---
 
-# **CÁCH SỬ DỤNG FILE NÀY**
+# 📌 Khi đã học xong Section 1–3, chỉ cần nhìn vào đây khi làm bài
 
-1. **Lần đầu**: Đọc **SECTION 4** (Quick Decision Card) → hiểu tư duy chọn thì
-2. **Khi làm bài**: Xem **SECTION 4** trước, nếu không chắc → tra **SECTION 1-3**
-3. **Học kỹ**: Học từng section theo thứ tự (1 → 2 → 3)
-4. **Test**: Gập lại file, chỉ nhìn **SECTION 4** — có chọn đúng thì không?
+# ⭐ **SECTION 4: START HERE — QUICK DECISION CARD (10 dòng)**
+
+⚠️ Chỉ dùng phần này SAU KHI đã học Section 1–3. Nếu chưa học, quay lại từ đầu.
+
+**Mỗi khoảnh khắc, hỏi câu này theo thứ tự:**
+
+| Bước | Câu Hỏi | → Kết Quả |
+|------|---------|----------|
+| **1️⃣** | Từ này có phải **stative verb**? (like, know, think, seem, have, see) | **CÓ** → LUÔN **Simple** (dừng) |
+| | | **KHÔNG** → Sang Bước 2 |
+| **2️⃣** | Đang nói về **when**? | **Hiện tại** → Bước 3A |
+| | | **Quá khứ** → Bước 3B |
+| | | **Perfect** (từ quá khứ đến giờ) → Bước 3C |
+| **3A** | **Hiện tại**: Thói quen hay đang làm ngay? | Thói quen → **Present Simple** |
+| | | Đang làm → **Present Continuous** |
+| **3B** | **Quá khứ**: Hoàn thành hay đang xảy ra khi bị ngắt? | Hoàn thành → **Past Simple** |
+| | | Đang xảy ra + bị ngắt → **Past Continuous** |
+| **3C** | **Perfect**: Số lượng hay kéo dài? | Số lượng (3 reports) → **Perfect Simple** |
+| | | Kéo dài (for 3 hours) → **Perfect Continuous** |
+| **4️⃣** | **SVA check**: Subject là gì? (**The number** / **A number** / **Either...or** / **Police**?) | Áp dụng SVA rules |
 
 ---
 
