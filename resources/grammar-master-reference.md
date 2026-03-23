@@ -84,7 +84,20 @@ Khi làm bài — Mở Section 4 trước, không chắc mới tra 1-2-3
 
 ---
 
-## 💡 **4 GOLDEN RULES — Dùng Cực Nhanh**
+## � **2 HÀNH ĐỘNG TRONG QUÁ KHỨ — Cách Phân Biệt**
+
+| **Mối Quan Hệ** | **Cấu Trúc** | **Ví Dụ** |
+|---|---|---|
+| **Một **đang làm** + một **xảy ra** khi bị ngắt** | Past Continuous + Past Simple | **was leaving** when I **arrived** |
+| **Một **xong rồi** + một **xảy ra sau** (tuần tự)** | Past Simple + Past Simple | **finished** and **left** |
+| **Một **xong** TRƯỚC cái **khác xong** (nhấn cái xảy ra TRƯỚC)** | Past Perfect + Past Simple | **had left** when I **arrived** |
+| **Hai hành động cùng thời gian, cùng kéo dài** | Past Continuous + Past Continuous | **was working** while you **were sleeping** |
+
+**Nhớ:** Dùng **Past Perfect (had)** khi muốn nhấn "cái này xong **TRƯỚC** cái kia" | Dùng **Past Continuous (was -ing)** khi muốn nói "cái này **đang làm** khi cái kia xảy ra"
+
+---
+
+## �💡 **4 GOLDEN RULES — Dùng Cực Nhanh**
 
 1. **For + duration (vẫn đang làm)?** → **Perfect Continuous** (have been -ing)
 2. **Specific time (yesterday, at 5 PM)?** → **Past Simple** (-ed)
@@ -134,9 +147,10 @@ Khi làm bài — Mở Section 4 trước, không chắc mới tra 1-2-3
 |------|---------|----------|
 | **1️⃣** | Từ này có phải **stative verb**? (like, know, think, seem, have, see) | **CÓ** → LUÔN **Simple** (dừng) |
 | | | **KHÔNG** → Sang Bước 2 |
-| **2️⃣** | Đang nói về **when**? | **Hiện tại** → Bước 3A |
-| | | **Quá khứ** → Bước 3B |
-| | | **Perfect** (từ quá khứ đến giờ) → Bước 3C |
+| **2️⃣** | **Xác định mốc thời**: Có signal word nào không? | **Signal: now, every day, usually** → **Hiện tại** (3A) |
+| | | **Signal: yesterday, last week, ago, at 5 PM** → **Quá khứ** (3B) |
+| | | **Signal: for/since, có have/has** → **Perfect** (3C) |
+| | | **Không có signal?** → Xem ngữ cảnh (câu chuyện là quá khứ hay hiện tại?) |
 | **3A** | **Hiện tại**: Thói quen hay đang làm ngay? | Thói quen → **Present Simple** |
 | | | Đang làm → **Present Continuous** |
 | **3B** | **Quá khứ**: Hoàn thành hay đang xảy ra khi bị ngắt? | Hoàn thành → **Past Simple** |
