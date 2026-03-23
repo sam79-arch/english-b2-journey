@@ -71,6 +71,10 @@ Khi làm bài — Mở Section 4 trước, không chắc mới tra 1-2-3
 | **Past Continuous** | while, when, as, during, at 3 PM yesterday | was working when you called |
 | **Past Perfect Simple** | before, by the time | had finished before he arrived |
 | **Past Perfect Continuous** | for (duration), how long, before + past | had been working for 2 hours when he came |
+| **Future Simple** | will, next week, tomorrow, in 2 days | will finish tomorrow |
+| **Future Continuous** | will be -ing, at 5 PM tomorrow | will be working when you arrive |
+| **Going to** | going to, planning to, about to | am going to finish |
+| **Present Continuous for future** | plans decided, this weekend, tonight | am meeting him tomorrow |
 
 ---
 
@@ -81,6 +85,64 @@ Khi làm bài — Mở Section 4 trước, không chắc mới tra 1-2-3
 | **FOR** | Khoảng thời gian (3 hours, 2 weeks) | I have worked **for** 3 hours |
 | **SINCE** | Điểm bắt đầu (8 AM, 2020, Monday) | I have worked **since** 8 AM |
 | **BY THE TIME** | Trước khi sự kiện khác (phải có 2 events) | **By the time** we arrived, they had left |
+| **AGO** | Quá khứ (cách đây bao lâu) → **Past Simple** | I finished **5 minutes ago** |
+
+---
+
+## 🔷 **JUST, ALREADY, YET — Phân Biệt Rõ**
+
+| **Từ** | **Cấu Trúc** | **Ví Dụ** | **Nghĩa** |
+|---|---|---|---|
+| **Just** | have + V3 + just | **I have just arrived** | Vừa xong, ngay gần đây |
+| **Already** | have + V3 + already | **I have already eaten** | Từ trước rồi, xong sớm |
+| **Yet** | have + V3 + yet (câu hỏi/phủ định) | **Have you finished yet?** / **I haven't finished yet** | Chưa xong, nhưng dự định sẽ |
+
+---
+
+## 🔷 **FUTURE: WILL vs GOING TO**
+
+| **Trường Hợp** | **Cấu Trúc** | **Ví Dụ** | **Lưu Ý** |
+|---|---|---|---|
+| **Quyết định ngay, tự phát (spur of moment)** | will + V | **I will help you** | Vừa quyết định |
+| **Dự đoán (khó tránh)** | will + V | **It will rain** | Tin chắc sẽ xảy ra |
+| **Kế hoạch đã sắp xếp** | am/is/are going to + V | **I am going to study tomorrow** | Đã quyết định từ trước |
+| **Evidence → kết luận** | going to + V | **Look at the sky! It's going to rain** | Có bằng chứng rõ |
+| **Hành động cụ thể trong future** | will be -ing | **I will be working at 5 PM** | Đang làm (future) |
+
+**Nhớ:** **Going to** = có kế hoạch, đã quyết định | **Will** = quyết định vừa xong, dự đoán nói chung
+
+---
+
+## 🔷 **HAVE BEEN TO vs HAVE GONE TO**
+
+| **Dạng** | **Ý Nghĩa** | **Ví Dụ** | **Trạng Thái** |
+|---|---|---|---|
+| **Have been to** | Từng đến (đã về) | **I have been to Paris** | Anh/chị tại đây, trước đó đã đi |
+| **Have gone to** | Đã đi (vẫn ở đó) | **He has gone to Paris** | Anh ấy ở Paris, chưa về |
+
+---
+
+## 🔷 **USED TO vs PAST SIMPLE**
+
+| **Dạng** | **Ý Nghĩa** | **Ví Dụ** | **Hiện Tại** |
+|---|---|---|---|
+| **Used to + V** | Thói quen cũ (đã dừng) | **I used to smoke** | Tôi không hút nữa |
+| **Past Simple** | Hành động xảy ra + xong | **I smoked yesterday** | Chỉ là hành động, không nhất thiết dừng |
+| **Would + V** | Thói quen lặp lại cũ (formal) | **We would visit every summer** | Mỗi hè chúng tôi đều ghé thăm |
+
+**Nhớ:** **Used to** = quá khứ + **bây giờ đã dừng** | **Past Simple** = chỉ nói sự kiện, không biết bây giờ như thế nào
+
+---
+
+## 🔷 **PERFECT SIMPLE vs PAST SIMPLE với "AGO"**
+
+| **Trường Hợp** | **Cấu Trúc** | **Ví Dụ** | **Signal** |
+|---|---|---|---|
+| **Vừa xong, ảnh hưởng bây giờ** | have + V3 | **I have just arrived** (5 min ago) | Just, recently, so far |
+| **Hành động hoàn toàn trong quá khứ (với "ago")** | past simple + ago | **I finished 5 minutes ago** | Ago, yesterday, last week |
+| **Kỳ lạ:** AGO làm "disconnect" hiện tại | — | **I have finished just now** ✓ | Nhưng "just now" + Perfect OK |
+
+**Rule:** **AGO** → **Past Simple** (disconnect quá khứ) | **Just, Recently** → **Perfect** (liên kết hiện tại)
 
 ---
 
@@ -132,8 +194,8 @@ Khi làm bài — Mở Section 4 trước, không chắc mới tra 1-2-3
 |---|---|---|---|
 | **The NUMBER of X** | Subject = "The number" (singular) | The number ARE increasing | **The number IS increasing** |
 | **A NUMBER of X** | Subject = "A number" (plural) | A number IS coming | **A number ARE coming** |
-| **Either A or B** | Verb agree with **NEAREST** noun (B) | Either team or players IS ready | **Either team or players ARE ready** |
-| **Neither A nor B** | Verb agree with **NEAREST** noun (B) | Neither she nor I AM wrong | **Neither she nor I ARE wrong** |
+| **Either A or B** | Verb agree with **NEAREST** noun (B) | Either team or players IS ready | **Either team or players ARE ready** (nearest = players = plural) |
+| **Neither A nor B** | Verb agree with **NEAREST** noun (B) | Neither she nor I AM wrong | **Neither she nor I ARE wrong** (nearest = I = plural form ARE, NOT am) |
 | **One of the X** | Subject = "One" (singular) | One of students ARE here | **One of students IS here** |
 | **Police** | Always plural (ngoại lệ) | The police IS investigating | **The police ARE investigating** |
 
@@ -163,12 +225,19 @@ Khi làm bài — Mở Section 4 trước, không chắc mới tra 1-2-3
 |------|---------|----------|
 | **1️⃣** | Từ này có phải **stative verb**? (like, know, think, seem, have, see) | **CÓ** → LUÔN **Simple** (dừng) |
 | | | **KHÔNG** → Sang Bước 2 |
+| **1.5️⃣** | **Dạng đặc biệt?** (used to, be going to, have been to) | **used to** → Past thói quen (**used to + V**) |
+| | | **be going to** → Future kế hoạch (**am/is/are going to + V**) |
+| | | **have been to** → From past (vẫn còn ảnh hưởng) |
+| | | **KHÔNG** → Sang Bước 2 |
 | **2️⃣** | **Xác định mốc thời**: Có signal word nào không? | **Signal: now, every day, usually** → **Hiện tại** (3A) |
+| | | **Signal: tomorrow, next week, will** → **Tương Lai** (3A+) |
 | | | **Signal: yesterday, last week, ago, at 5 PM** → **Quá khứ** (3B) |
 | | | **Signal: for/since, có have/has** → **Perfect** (3C) |
 | | | **Không có signal?** → Xem ngữ cảnh (câu chuyện là quá khứ hay hiện tại?) |
-| **3A** | **Hiện tại**: Thói quen hay đang làm ngay? | Thói quen → **Present Simple** |
-| | | Đang làm → **Present Continuous** |
+| **3A** | **Hiện tại/Tương Lai**: Thói quen hay đang làm ngay? | Thói quen (present) → **Present Simple** |
+| | | Đang làm (now) → **Present Continuous** |
+| | | **Sự kiện tương lai cụ thể** → **Present Continuous** (schedule) |
+| | | **Dự đoán/Quyết định tương lai** → **Will + V** / **Going to + V** |
 | **3B** | **Quá khứ**: Hoàn thành hay đang xảy ra khi bị ngắt? | Hoàn thành → **Past Simple** |
 | | | Đang xảy ra + bị ngắt → **Past Continuous** |
 | **3C** | **Perfect**: Số lượng hay kéo dài? | Số lượng (3 reports) → **Perfect Simple** |
