@@ -94,7 +94,23 @@ Khi làm bài — Mở Section 4 trước, không chắc mới tra 1-2-3
 | **Hai hành động cùng thời gian, cùng kéo dài** | Past Continuous + Past Continuous | **was working** while you **were sleeping** |
 
 **Nhớ:** Dùng **Past Perfect (had)** khi muốn nhấn "cái này xong **TRƯỚC** cái kia" | Dùng **Past Continuous (was -ing)** khi muốn nói "cái này **đang làm** khi cái kia xảy ra"
+---
 
+## 🔷 **PRESENT PERFECT SIMPLE vs CONTINUOUS — Cách Phân Biệt**
+
+| **Trường Hợp** | **Cấu Trúc** | **Ví Dụ** | **Nhấn Mạnh** |
+|---|---|---|---|
+| **Xong rồi, có kết quả (không cần biết lâu bao lâu)** | have + **V3** | **I have finished** the report | Kết quả, hoàn thành |
+| **Kéo dài từ quá khứ → giờ (với FOR/SINCE)** | have + **been -ing** | **I have been working** for 3 hours | Thời lượng, quá trình |
+| **Làm nhiều lần (result = số lần)** | have + **V3** | **I have visited** Paris 5 times | Số lượng, kết quả |
+| **Vừa xong, tươi mới (just, recently)** | have + **V3** | **I have just arrived** | Ngay gần đây |
+| **Tác dụng của hành động vẫn còn (now)** | have + **been -ing** | **I have been cleaning**, so the house is clean now | Kết quả + quá trình |
+
+**Nhớ:** 
+- **Perfect Simple = Kết quả, số lượng** (bao nhiêu cái, xong chưa)
+- **Perfect Continuous = Lâu rồi, kéo dài, nhấn quá trình** (làm bao lâu rồi, vẫn đang ảnh hưởng)
+- **FOR + thời gian** → **Perfect Continuous** (vẫn đang làm)
+- **Số lần cụ thể** → **Perfect Simple** (đã làm bao nhiêu lần)
 ---
 
 ## �💡 **4 GOLDEN RULES — Dùng Cực Nhanh**
