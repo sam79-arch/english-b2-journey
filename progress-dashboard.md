@@ -1,12 +1,12 @@
 # English Learning Dashboard
 
-Last updated: 2026-08-16
+Last updated: 2026-08-23
 
 ## 📈 Overall Progress
 
 | Metric | Value |
 |---|---|
-| Days completed | Week 34 |
+| Days completed | Week 35 |
 | Sentence files | 22 |
 | Vocabulary learned | ~0 words |
 | Task 1 essays | 0 |
